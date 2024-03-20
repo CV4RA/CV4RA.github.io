@@ -52,10 +52,11 @@ Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, is a teacher in 
 
 # 📖 Experiences
 - *2023.10 - present*, Teacher, School of Mechanical Engineering, Qilu University of Technology (Shandong Academy of Sciences). 
-- *2018.09 - 2023.06*, ph.D candidate, Tongji University. 
+- *2018.09 - 2023.06*, Ph.D candidate, Tongji University. 
 
 # 📝 Publications 
-- <font color=gray face="华文新魏">(selected publications)
+<font color=gray face="华文新魏">(selected publications)
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/CSPFormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [CSPFormer: A Cross-Spatial Pyramid Transformer for Visual Place Recognition](https://www.sciencedirect.com/science/article/pii/S0925231224002431), Neurocomputing.
