@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhenyu Li"
-# description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Teacher at Qilu University of Technology (Shandong Academy of Sciences)"
 repository               : "CV4RA/CV4RA.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhenyu Li"
   avatar           : "images/lzy.jpg"
-  bio              : "Qilu University of Technology (Shandong Academy of Sciences)"
+  bio              : "Ph.D., Tongji University"
   location         : "Jinan, China"
   employer         :
   pubmed           : 
