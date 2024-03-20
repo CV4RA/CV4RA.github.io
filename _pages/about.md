@@ -19,7 +19,7 @@ redirect_from:
 
 Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, is a teacher in the Department of Robotics Engineering at Qilu University of Technology (Shandong Academy of Sciences), and a leader of computer vision for robot automation laboratory (CV4RA lab.). He has published more than 30 papers in SCI journals and robotics academic conferences. He achieved the Best Paper Finalist Award at the 2019 IEEE ROBIO Conference. He currently serves as a reviewer for several TOP journals. His current research covers localization and navigation for intelligent unmanned systems (including robots, autonomous vehicles, UAVs, etc.).
 
-📣 <font color=gray face="华文新魏">We welcome outstanding and self-motivating undergraduate students (first-year students and above) to participate in subject competitions, and (sophomore students and above) to jointly carry out research on cutting-edge topics. We also welcome outstanding postgraduate students from both inside and outside the school to collaborate on AI & Robotic research.</font>
+📣 We welcome outstanding and self-motivating undergraduate students (first-year students and above) to participate in subject competitions, and (sophomore students and above) to jointly carry out research on cutting-edge topics. We also welcome outstanding postgraduate students from both inside and outside the school to collaborate on AI & Robotic research.
 
 <b><font face="楷书">Available Research Topics (for prospective students):</font></b>
 - <font face="华文新魏" color="Hotpink">Cross-domain adaptive visual place recognition for mobile robots</font>
@@ -41,8 +41,8 @@ Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, is a teacher in 
 - "DPF (Diesel Particulate Filter) equipment Tongji Platform data monitoring and data analysis", Shanghai Transportation Commission.
 
 # 🔥 News
-- *2024.03*: ![alt text](<news (2)-2.gif>)Our paper "CSPFormer: A Cross-Spatial Pyramid Transformer for Visual Place Recognition" has been accepted by Neurocomputing ! 
-- *2024.02*: ![alt text](<news (2)-3.gif>) Our paper "TECD_Attention: Texture-enhanced and cross-domain attention modeling for visual place recognition" has been accepted by Computer Vision and Image Understanding ! 
+- *2024.03*: &nbsp;![alt text](new-2.gif) Our paper "CSPFormer: A Cross-Spatial Pyramid Transformer for Visual Place Recognition" has been accepted by Neurocomputing ! 
+- *2024.02*: &nbsp;![alt text](new-3.gif)Our paper "TECD_Attention: Texture-enhanced and cross-domain attention modeling for visual place recognition" has been accepted by Computer Vision and Image Understanding ! 
 
 # 🎖 Honors and Awards
 - *2019.12* Best Paper Finalist in 2019 IEEE-ROBIO conference. 
