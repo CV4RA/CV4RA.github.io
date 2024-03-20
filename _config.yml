@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Li Zhenyu (李振雨)"
+title                    : "Li Zhenyu"
 description              : "Teacher at Qilu University of Technology (Shandong Academy of Sciences)"
 repository               : "CV4RA/CV4RA.github.io"
 google_scholar_stats_use_cdn : true
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=VZi8rpAAAAAJ"
   email            : "lizhenyu@qlu.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/Zhenyu-Li-54"
+  researchgate     : "https://www.researchgate.net/profile/Zhenyu-Li-54"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/CV4RA/CV4RA.github.io"
   google_plus      :
   keybase          :
   instagram        :
