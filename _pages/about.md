@@ -35,28 +35,28 @@ Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, is a teacher in 
 **Zhenyu Li**, Pengjie Xu
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/TECD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVIU</div><img src='images/TECD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [TECD_Attention: Texture-enhanced and cross-domain attention modeling for visual place recognition](https://www.sciencedirect.com/science/article/pii/S1077314224000109), Computer Vision and Image Understanding.
 
 **Zhenyu Li**, Zhenbiao Dong
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/RDDRL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI</div><img src='images/RDDRL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [RDDRL: a recurrent deduction deep reinforcement learning model for multimodal vision-robot navigation](https://link.springer.com/article/10.1007/s10489-023-04754-7), Applied Intelligence.
 
 **Zhenyu Li**, Aiguo Zhou
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/TSF.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI</div><img src='images/TSF.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [TSF-transformer: a time series forecasting model for exhaust gas emission using transformer](https://link.springer.com/article/10.1007/s10489-022-04326-1), Applied Intelligence.
 
 **Zhenyu Li**, Xikun, Zhenbiao Dong
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/self.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JIRS</div><img src='images/self.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Self-selection salient region-based scene recognition using slight-weight convolutional neural network](https://link.springer.com/article/10.1007/s10846-021-01421-2), Journal of Intelligent & Robotic Systems.
 
