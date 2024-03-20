@@ -21,6 +21,24 @@ Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, is a teacher in 
 
 📣 We welcome outstanding and self-motivating undergraduate students (first-year students and above) to participate in subject competitions, and (sophomore students and above) to jointly carry out research on cutting-edge topics. We also welcome outstanding postgraduate students from both inside and outside the school to collaborate on AI & Robotic research.
 
+<b><font face="楷书">Available Research Topics (for prospective students):</font></b>
+- <font face="华文新魏" color="Hotpink">Cross-domain adaptive visual place recognition for mobile robots</font>
+- <font face="华文新魏" color="Hotpink">Multi-modal Perception-based automatic navigation for intelligent vehicles</font>
+- <font face="华文新魏" color="Hotpink">3D semantic SLAM</font>
+- <font face="华文新魏" color="Hotpink">Heterogeneous multi-agent collaboration for visual place recognition</font>
+- <font face="华文新魏" color="Hotpink">Multi-UAVs visual perception with low-illumination environments</font>
+- <font face="华文新魏" color="Hotpink">Image quality analysis (fog, rain or snow removal technology)</font>
+# 🏰 Research Field
+- Intelligent Scene Perception (semantic understanding)
+- Robot Visual Place Recognition (2D & 3D VPR)
+- Intelligent Driving (single/multi-agents)
+- Edge Computing (GPU-drive intelligent computing)
+
+📤<u><font size=2 color=Hotpink>有志于在CV4RA从事学术研究和学科竞赛的优秀同学(<b>特别欢迎打算出国深造和考研学生加入</b>)，欢迎联系我洽谈！ Email(嗖~！🚀可达)：lizhenyu@qlu.edu.cn.</font></u>
+
+# 📈 Projects
+- "Research on Key Fundamental Issues of Perception, Decision Making and Control of Intelligent Electric Vehicles → Intelligent electric vehicle information security guarantee theory and prevention", National key research and development plan sub-project.
+- "DPF (Diesel Particulate Filter) equipment Tongji Platform data monitoring and data analysis", Shanghai Transportation Commission.
 
 # 🔥 News
 - *2024.03*: &nbsp;![alt text](new.gif) Our paper "CSPFormer: A Cross-Spatial Pyramid Transformer for Visual Place Recognition" has been accepted by Neurocomputing ! 
