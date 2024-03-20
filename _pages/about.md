@@ -94,6 +94,5 @@ Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, is a teacher in 
 </div>
 
 # 📖 Contact
-Email, lizhenyu@qlu.edu.cn.
-
+- Email, lizhenyu@qlu.edu.cn.
 Note: <font color=red>Promising and outstanding undergraduate students must have excellent grades💯, good-learn attitude💪, and high-time investment🕒</font>
