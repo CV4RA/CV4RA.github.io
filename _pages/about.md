@@ -35,7 +35,13 @@ Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, is a teacher in 
 **Zhenyu Li**, Pengjie Xu
 </div>
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/TECD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[TECD_Attention: Texture-enhanced and cross-domain attention modeling for visual place recognition](https://www.sciencedirect.com/science/article/pii/S1077314224000109), Computer Vision and Image Understanding.
 
+**Zhenyu Li**, Zhenbiao Dong
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
