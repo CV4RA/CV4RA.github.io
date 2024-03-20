@@ -44,12 +44,13 @@ Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, is a teacher in 
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.12* Best Paper Finalist in 2019 IEEE-ROBIO conference. 
+- *2019.10* Excellent Doctoral Scholarship in 2019 Tongji University. 
+- *2023.06* Outstanding graduates in 2023 Tongji University.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10 - present*, Teacher, School of Mechanical Engineering, Qilu University of Technology (Shandong Academy of Sciences). 
+- *2018.09 - 2023.06*, ph.d candidate, Tongji University. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
