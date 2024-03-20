@@ -19,7 +19,7 @@ redirect_from:
 
 Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, is a teacher in the Department of Robotics Engineering at Qilu University of Technology (Shandong Academy of Sciences), and a leader of computer vision for robot automation laboratory (CV4RA lab.). He has published more than 30 papers in SCI journals and robotics academic conferences. He achieved the Best Paper Finalist Award at the 2019 IEEE ROBIO Conference. He currently serves as a reviewer for several TOP journals. His current research covers localization and navigation for intelligent unmanned systems (including robots, autonomous vehicles, UAVs, etc.).
 
-📣 We welcome outstanding and self-motivating undergraduate students (first-year students and above) to participate in subject competitions, and (sophomore students and above) to jointly carry out research on cutting-edge topics. We also welcome outstanding postgraduate students from both inside and outside the school to collaborate on AI & Robotic research.
+📣 <font color=gray face="华文新魏">We welcome outstanding and self-motivating undergraduate students (first-year students and above) to participate in subject competitions, and (sophomore students and above) to jointly carry out research on cutting-edge topics. We also welcome outstanding postgraduate students from both inside and outside the school to collaborate on AI & Robotic research.</font>
 
 <b><font face="楷书">Available Research Topics (for prospective students):</font></b>
 - <font face="华文新魏" color="Hotpink">Cross-domain adaptive visual place recognition for mobile robots</font>
