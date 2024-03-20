@@ -90,7 +90,7 @@ Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, is a teacher in 
 [Self-selection salient region-based scene recognition using slight-weight convolutional neural network](https://link.springer.com/article/10.1007/s10846-021-01421-2), Journal of Intelligent & Robotic Systems.
 
 **Zhenyu Li**, Aiguo Zhou
-
+</div>
 
 # 💌 Contact us
 - email: lizhenyu@qlu.edu.cn
