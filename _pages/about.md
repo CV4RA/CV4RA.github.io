@@ -41,8 +41,8 @@ Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, is a teacher in 
 - "DPF (Diesel Particulate Filter) equipment Tongji Platform data monitoring and data analysis", Shanghai Transportation Commission.
 
 # 🔥 News
-- *2024.03*: &nbsp;![alt text](new.gif) Our paper "CSPFormer: A Cross-Spatial Pyramid Transformer for Visual Place Recognition" has been accepted by Neurocomputing ! 
-- *2024.02*: &nbsp;![alt text](new-1.gif) Our paper "TECD_Attention: Texture-enhanced and cross-domain attention modeling for visual place recognition" has been accepted by Computer Vision and Image Understanding ! 
+- *2024.03*: &nbsp;![alt text](<news (2).gif>) Our paper "CSPFormer: A Cross-Spatial Pyramid Transformer for Visual Place Recognition" has been accepted by Neurocomputing ! 
+- *2024.02*: &nbsp;!![alt text](<news (2)-1.gif>)Our paper "TECD_Attention: Texture-enhanced and cross-domain attention modeling for visual place recognition" has been accepted by Computer Vision and Image Understanding ! 
 
 # 🎖 Honors and Awards
 - *2019.12* Best Paper Finalist in 2019 IEEE-ROBIO conference. 
