@@ -58,35 +58,35 @@ Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, is a teacher in 
 - <font color=gray face="华文新魏">(selected journal papers)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/CSPFormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[CSPFormer: A Cross-Spatial Pyramid Transformer for Visual Place Recognition](https://www.sciencedirect.com/science/article/pii/S0925231224002431), Neurocomputing.
+[CSPFormer: A Cross-Spatial Pyramid Transformer for Visual Place Recognition](https://www.sciencedirect.com/science/article/pii/S0925231224002431), *Neurocomputing*.
 
 **Zhenyu Li***, Pengjie Xu
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVIU</div><img src='images/TECD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[TECD_Attention: Texture-enhanced and cross-domain attention modeling for visual place recognition](https://www.sciencedirect.com/science/article/pii/S1077314224000109), Computer Vision and Image Understanding.
+[TECD_Attention: Texture-enhanced and cross-domain attention modeling for visual place recognition](https://www.sciencedirect.com/science/article/pii/S1077314224000109), *Computer Vision and Image Understanding*.
 
 **Zhenyu Li***, Zhenbiao Dong
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI</div><img src='images/RDDRL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[RDDRL: a recurrent deduction deep reinforcement learning model for multimodal vision-robot navigation](https://link.springer.com/article/10.1007/s10489-023-04754-7), Applied Intelligence.
+[RDDRL: a recurrent deduction deep reinforcement learning model for multimodal vision-robot navigation](https://link.springer.com/article/10.1007/s10489-023-04754-7), *Applied Intelligence*.
 
 **Zhenyu Li***, Aiguo Zhou
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI</div><img src='images/TSF.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[TSF-transformer: a time series forecasting model for exhaust gas emission using transformer](https://link.springer.com/article/10.1007/s10489-022-04326-1), Applied Intelligence.
+[TSF-transformer: a time series forecasting model for exhaust gas emission using transformer](https://link.springer.com/article/10.1007/s10489-022-04326-1), *Applied Intelligence*.
 
 **Zhenyu Li***, Xikun, Zhenbiao Dong
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JIRS</div><img src='images/self.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Self-selection salient region-based scene recognition using slight-weight convolutional neural network](https://link.springer.com/article/10.1007/s10846-021-01421-2), Journal of Intelligent & Robotic Systems.
+[Self-selection salient region-based scene recognition using slight-weight convolutional neural network](https://link.springer.com/article/10.1007/s10846-021-01421-2), *Journal of Intelligent & Robotic Systems*.
 
 **Zhenyu Li***, Aiguo Zhou
 </div>
@@ -94,14 +94,14 @@ Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, is a teacher in 
 - <font color=gray face="华文新魏">(selected conference papers)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO-(best paper finalist)</div><img src='images/robio.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Deep Fusion of Multi-Layers Salient CNN Features and Similarity Network for Robust Visual Place Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8961602), IEEE International Conference on Robotics and Biomimetics.
+[Deep Fusion of Multi-Layers Salient CNN Features and Similarity Network for Robust Visual Place Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8961602), *IEEE International Conference on Robotics and Biomimetics*.
 
 **Zhenyu Li***, Aiguo Zhou, Mingyang Wang, Yong Shen
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SAE</div><img src='images/sae.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Multi-Modal Neural Feature Fusion for Pose Estimation and Scene Perception of Intelligent Vehicle](https://www.sae.org/publications/technical-papers/content/2021-01-0188/), SAE Technical Paper.
+[Multi-Modal Neural Feature Fusion for Pose Estimation and Scene Perception of Intelligent Vehicle](https://www.sae.org/publications/technical-papers/content/2021-01-0188/), *SAE Technical Paper*.
 
 Aiguo Zhou, **Zhenyu Li***, Jiakun Pu, Jiangyang Yu, Ronghui Wei, Zhenbiao Dong
 </div>
