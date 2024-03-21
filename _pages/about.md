@@ -107,10 +107,10 @@ Aiguo Zhou, **Zhenyu Li***, Jiakun Pu, Jiangyang Yu, Ronghui Wei, Zhenbiao Dong
 </div>
 </div>
 
-# Peoples
+# Members
 *Our team is being built...*
 
-# 📪 Contact us
+# 📪 Contact
 - email: lizhenyu@qlu.edu.cn
 - <font color=green>Promising and outstanding undergraduate students must have excellent grades💯, good-learn attitude💪, and high-time investment🕒</font>
 
