@@ -43,7 +43,7 @@ Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, is a teacher in 
 
 # 🔥 News
 - *2024.03*: &nbsp;![alt text](new-2.gif) Our paper "CSPFormer: A Cross-Spatial Pyramid Transformer for Visual Place Recognition" has been accepted by Neurocomputing ! 
-- *2024.02*: &nbsp;![alt text](new-3.gif)Our paper "TECD_Attention: Texture-enhanced and cross-domain attention modeling for visual place recognition" has been accepted by Computer Vision and Image Understanding ! 
+- *2024.02*: &nbsp;![alt text](new-3.gif) Our paper "TECD_Attention: Texture-enhanced and cross-domain attention modeling for visual place recognition" has been accepted by Computer Vision and Image Understanding ! 
 
 # 🎖 Honors and Awards
 - *2019.12* Best Paper Finalist in 2019 IEEE-ROBIO conference. 
@@ -107,8 +107,7 @@ Aiguo Zhou, **Zhenyu Li**, Jiakun Pu, Jiangyang Yu, Ronghui Wei, Zhenbiao Dong
 </div>
 </div>
 
-
-**Contact us**
+# 📪 Contact us
 
 email: lizhenyu@qlu.edu.cn
 
