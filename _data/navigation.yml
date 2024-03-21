@@ -4,23 +4,23 @@ main:
     url: "/#home"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Research Topics"
-    url: "/#-research-topics"
+    url: "/#research-topics"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
 
   - title: "Experiences"
-    url: "/#-experiences"
+    url: "/#experiences"
 
   - title: "Members"
-    url: "/#-members"
+    url: "/#members"
 
   - title: "Contact"
-    url: "/#-contact"
+    url: "/#contact"
 
