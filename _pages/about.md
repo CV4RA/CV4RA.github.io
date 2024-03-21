@@ -108,7 +108,7 @@ Aiguo Zhou, **Zhenyu Li**, Jiakun Pu, Jiangyang Yu, Ronghui Wei, Zhenbiao Dong
 </div>
 
 # 📪 Contact us
-
-email: lizhenyu@qlu.edu.cn
-
-<font color=green>Promising and outstanding undergraduate students must have excellent grades💯, good-learn attitude💪, and high-time investment🕒</font>
+- email: lizhenyu@qlu.edu.cn
+- <font color=green>Promising and outstanding undergraduate students must have excellent grades💯, good-learn attitude💪, and high-time investment🕒</font>
+</div>
+</div>
