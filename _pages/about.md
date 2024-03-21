@@ -112,5 +112,6 @@ Our team is being built...
 
 # 📪 Contact us
 - email: lizhenyu@qlu.edu.cn
-- <font color=green>Promising and outstanding undergraduate students must have excellent grades💯, good-learn attitude💪, and high-time investment🕒</font>.
+- <font color=green>Promising and outstanding undergraduate students must have excellent grades💯, good-learn attitude💪, and high-time investment🕒</font>
 
+![alt text](cv4ra.jpg)
