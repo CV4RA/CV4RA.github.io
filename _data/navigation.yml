@@ -1,10 +1,13 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/#about-me"
+  - title: "Home"
+    url: "/#home"
 
   - title: "News"
     url: "/#-news"
+
+  - title: "Research Topics"
+    url: "/#-research-topics"
 
   - title: "Publications"
     url: "/#-publications"
@@ -15,9 +18,9 @@ main:
   - title: "Experiences"
     url: "/#-experiences"
 
-  - title: "Peoples"
-    url: "/#-peoples"
+  - title: "Members"
+    url: "/#-members"
 
-  - title: "Contact us"
-    url: "/#-contact-us"
+  - title: "Contact"
+    url: "/#-contact"
 
