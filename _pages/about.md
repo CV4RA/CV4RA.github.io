@@ -99,7 +99,7 @@ Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, is a teacher in 
 **Zhenyu Li**, Aiguo Zhou, Mingyang Wang, Yong Shen
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO-(best paper finalist)</div><img src='images/sae.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SAE</div><img src='images/sae.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Multi-Modal Neural Feature Fusion for Pose Estimation and Scene Perception of Intelligent Vehicle](https://www.sae.org/publications/technical-papers/content/2021-01-0188/), SAE Technical Paper.
 
