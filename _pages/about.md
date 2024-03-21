@@ -58,7 +58,7 @@ Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, is a teacher in 
 
 #  Publications 
 <font color=gray face="华文新魏">(selected journal papers)
-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/CSPFormer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/CSPFormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [CSPFormer: A Cross-Spatial Pyramid Transformer for Visual Place Recognition](https://www.sciencedirect.com/science/article/pii/S0925231224002431), *Neurocomputing*.
 
@@ -94,20 +94,21 @@ Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, is a teacher in 
 </div>
 </div>
 <font color=gray face="华文新魏">(selected conference papers)
-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO-(best paper finalist)</div><img src='images/robio.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO-(best paper finalist)</div><img src='images/robio.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Deep Fusion of Multi-Layers Salient CNN Features and Similarity Network for Robust Visual Place Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8961602), *IEEE International Conference on Robotics and Biomimetics*.
 
 **Zhenyu Li***, Aiguo Zhou, Mingyang Wang, Yong Shen
 </div>
 </div>
-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SAE</div><img src='images/sae.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SAE</div><img src='images/sae.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Multi-Modal Neural Feature Fusion for Pose Estimation and Scene Perception of Intelligent Vehicle](https://www.sae.org/publications/technical-papers/content/2021-01-0188/), *SAE Technical Paper*.
 
 Aiguo Zhou, **Zhenyu Li***, Jiakun Pu, Jiangyang Yu, Ronghui Wei, Zhenbiao Dong
 </div>
 </div>
+
 
 #  Members
 
