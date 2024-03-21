@@ -16,4 +16,7 @@ main:
     url: "/#-experiences"
     
   - title: "Contact us"
-    url: "/#contact-us"
+    url: "/#-contact-us"
+
+  - title: "People"
+    url: "/#-people"
