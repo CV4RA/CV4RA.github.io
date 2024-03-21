@@ -31,44 +31,33 @@ Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, is a teacher in 
 - <font face="华文新魏" color="Hotpink">Image quality analysis (fog, rain or snow removal technology)</font>
 
 #  Research Topics
-<details>
-<summary>Click me</summary>
 - Intelligent Scene Perception (semantic understanding)
 - Robot Visual Place Recognition (2D & 3D VPR)
 - Intelligent Driving (single/multi-agents)
 - Edge Computing (GPU-drive intelligent computing)
-</details>
+
 📤<u><font size=2 color=Hotpink>有志于在CV4RA从事学术研究和学科竞赛的优秀同学(<b>特别欢迎打算出国深造和考研学生加入</b>)，欢迎联系我洽谈！ Email(嗖~！🚀可达)：lizhenyu@qlu.edu.cn.</font></u>
 
 #  Projects
-<details>
-<summary>Click me</summary>
 - "Research on Key Fundamental Issues of Perception, Decision Making and Control of Intelligent Electric Vehicles → Intelligent electric vehicle information security guarantee theory and prevention", National key research and development plan sub-project.
 - "DPF (Diesel Particulate Filter) equipment Tongji Platform data monitoring and data analysis", Shanghai Transportation Commission.
-</details>
 
 #  News
-<details>
-<summary>Click me</summary>
 - *2024.03*: &nbsp;![alt text](new-2.gif) Our paper "CSPFormer: A Cross-Spatial Pyramid Transformer for Visual Place Recognition" has been accepted by Neurocomputing ! 
 - *2024.02*: &nbsp;![alt text](new-3.gif) Our paper "TECD_Attention: Texture-enhanced and cross-domain attention modeling for visual place recognition" has been accepted by Computer Vision and Image Understanding ! 
-</details>
+
 
 #  Honors and Awards
-<details>
 - *2019.12* Best Paper Finalist in 2019 IEEE-ROBIO conference. 
 - *2019.10* Excellent Doctoral Scholarship in 2019 Tongji University. 
 - *2023.06* Outstanding graduates in 2023 Tongji University.
-</details>
+
 #  Experiences
-<details>
-<summary>Click me</summary>
 - *2023.10 - present*, Teacher, School of Mechanical Engineering, Qilu University of Technology (Shandong Academy of Sciences). 
 - *2018.09 - 2023.06*, Ph.D candidate, Tongji University. 
-</details>
+
+
 #  Publications 
-<details>
-<summary>Click me</summary>
 <font color=gray face="华文新魏">(selected journal papers)
 - <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/CSPFormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -105,9 +94,6 @@ Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, is a teacher in 
 **Zhenyu Li***, Aiguo Zhou
 </div>
 </div>
-</details>
-<details>
-<summary>Click me</summary>
 <font color=gray face="华文新魏">(selected conference papers)
 - <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO-(best paper finalist)</div><img src='images/robio.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -123,11 +109,9 @@ Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, is a teacher in 
 Aiguo Zhou, **Zhenyu Li***, Jiakun Pu, Jiangyang Yu, Ronghui Wei, Zhenbiao Dong
 </div>
 </div>
-</details>
 
 #  Members
 *Our team is being built...*
-
 #  Contact
 - email: lizhenyu@qlu.edu.cn
 - <font color=green>Promising and outstanding undergraduate students must have excellent grades💯, good-learn attitude💪, and high-time investment🕒</font>
