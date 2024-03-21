@@ -56,7 +56,6 @@ Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, is a teacher in 
 - *2023.10 - present*, Teacher, School of Mechanical Engineering, Qilu University of Technology (Shandong Academy of Sciences). 
 - *2018.09 - 2023.06*, Ph.D candidate, Tongji University. 
 
-
 #  Publications 
 <font color=gray face="华文新魏">(selected journal papers)
 - <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/CSPFormer.png' alt="sym" width="100%"></div></div>
@@ -110,11 +109,14 @@ Aiguo Zhou, **Zhenyu Li***, Jiakun Pu, Jiangyang Yu, Ronghui Wei, Zhenbiao Dong
 </div>
 </div>
 
+
 #  Members
 *Our team is being built...*
+
 
 #  Contact
 - email: lizhenyu@qlu.edu.cn
 - <font color=green>Promising and outstanding undergraduate students must have excellent grades💯, good-learn attitude💪, and high-time investment🕒</font>
+
 
 ![alt text](cv4ra.jpg)
