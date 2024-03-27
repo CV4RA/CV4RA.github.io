@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Li Zhenyu"
   avatar           : "images/lzy.jpg"
-  bio              : "<font face="blue">Ph.D., Tongji University</font>"
+  bio              : "<font face="blue">Ph.D., Tongji University </font>"
   location         : "Jinan, China"
   employer         :
   pubmed           : 
