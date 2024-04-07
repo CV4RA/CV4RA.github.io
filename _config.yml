@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Li Zhenyu"
 description              : "CV for Robotics"
-repository               : "CV4RA/CV4RA.github.io"
+repository               : "CV4RA"
 google_scholar_stats_use_cdn : true
 
 # google analytics
