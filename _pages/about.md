@@ -107,11 +107,6 @@ Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, is a teacher in 
 
 Aiguo Zhou, **Zhenyu Li***, Jiakun Pu, Jiangyang Yu, Ronghui Wei, Zhenbiao Dong
 </div>
-</div>
-<font color=gray face="华文新魏">(Other papers)
-<div class='paper-box-text' markdown="1">
-- ``IEEE Access``. [An end-to-end trainable multi-column CNN for scene recognition in extremely changing environment](https://www.mdpi.com/1424-8220/20/6/1556). **Zhenyu Li***, Aiguo Zhou, Yong Shen
-</div>
 
-
-#  Contact
+#  Contact Me
+1233
