@@ -18,8 +18,8 @@ main:
   - title: "Experiences"
     url: "/#experiences"
 
-  - title: "Members"
-    url: "/#members"
+  #- title: "Members"
+  #  url: "/#members"
 
   - title: "Contact"
     url: "/#contact"
