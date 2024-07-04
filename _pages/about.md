@@ -36,7 +36,7 @@ Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, is a teacher in 
 - Intelligent Driving 
 - Edge Intelligent Computing
 
-📤<u><font size=2 color=Hotpink>有志于在CV4RA从事学术研究和学科竞赛的优秀同学(<b>特别欢迎打算出国深造和考研学生加入</b>)，欢迎联系我洽谈！ Email(嗖~！🚀可达)：lizhenyu@qlu.edu.cn.</font></u>
+📤<u><font size=2 color=Hotpink>有志于在CV4RA从事学术研究和学科竞赛的优秀同学(<b>特别欢迎打算出国深造和考研学生加入</b>)，欢迎联系我洽谈！ Email(嗖~！🚀可达)：lizhenyu@ieee.org.</font></u>
 
 #  Projects
 - "Research on Key Fundamental Issues of Perception, Decision Making and Control of Intelligent Electric Vehicles → Intelligent electric vehicle information security guarantee theory and prevention", National key research and development plan sub-project.
