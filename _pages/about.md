@@ -31,10 +31,10 @@ Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, is a teacher in 
 - <font face="华文新魏" color="Hotpink">Image quality analysis (fog, rain or snow removal technology)</font>
 
 #  Research Topics
-- Intelligent Scene Perception (semantic understanding)
-- Robot Visual Place Recognition (2D & 3D VPR)
-- Intelligent Driving (single/multi-agents)
-- Edge Computing (GPU-drive intelligent computing)
+- Intelligent Scene Perception
+- Robot Visual Place Recognition
+- Intelligent Driving 
+- Edge Intelligent Computing
 
 📤<u><font size=2 color=Hotpink>有志于在CV4RA从事学术研究和学科竞赛的优秀同学(<b>特别欢迎打算出国深造和考研学生加入</b>)，欢迎联系我洽谈！ Email(嗖~！🚀可达)：lizhenyu@qlu.edu.cn.</font></u>
 
