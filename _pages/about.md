@@ -49,8 +49,8 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
 
 
 #  Honors and Awards
-- *2019.12* Best Paper Finalist in 2019 IEEE-ROBIO conference (Top 5‰)
-- *2019.10* Excellent Doctoral Scholarship in 2019 Tongji University (Top 1%)
+- *2019.12* Best Paper Finalist in 2019 IEEE-ROBIO conference 
+- *2019.10* Excellent Doctoral Scholarship in 2019 Tongji University
 - *2023.06* Outstanding graduates in 2023 Tongji University
 
 #  Experiences
