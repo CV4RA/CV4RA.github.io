@@ -53,7 +53,10 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
 - *2018.09 - 2023.06*, Ph.D candidate, Tongji University. 
 
 #  Publications 
-<font color=gray face="华文新魏">(selected journal papers)<details>
+<font color=gray face="华文新魏">(selected journal papers)
+<details>
+<summary>展开查看</summary>
+<pre><code>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='images/eaai.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Reinforcement learning-based distributed impedance control of robots forcompliant operation in tight interaction tasks](https://authors.elsevier.com/c/1jPYU3OWJ98fVS), *Engineering Applications of Artificial Intelligence*.
@@ -111,5 +114,7 @@ Pengjie Xu, **Zhenyu Li**, Xun Liu, Tianrui Zhao, Lin Zhang, Yanzheng Zhao
 Aiguo Zhou, **Zhenyu Li***, Jiakun Pu, Jiangyang Yu, Ronghui Wei, Zhenbiao Dong
 </div>
 </div>
+</code></pre>
+</details>
 
 #  Contact me
