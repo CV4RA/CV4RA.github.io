@@ -98,7 +98,10 @@ Pengjie Xu, **Zhenyu Li**, Xun Liu, Tianrui Zhao, Lin Zhang, Yanzheng Zhao
 **Zhenyu Li***, Aiguo Zhou
 </div>
 </div>
+<details>
 <font color=gray face="华文新魏">(selected conference papers)
+<details>
+<summary>展开查看</summary>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO-(best paper finalist)</div><img src='images/robio.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Deep Fusion of Multi-Layers Salient CNN Features and Similarity Network for Robust Visual Place Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8961602), *IEEE International Conference on Robotics and Biomimetics*.
@@ -113,5 +116,6 @@ Pengjie Xu, **Zhenyu Li**, Xun Liu, Tianrui Zhao, Lin Zhang, Yanzheng Zhao
 Aiguo Zhou, **Zhenyu Li***, Jiakun Pu, Jiangyang Yu, Ronghui Wei, Zhenbiao Dong
 </div>
 </div>
+<details>
 
 #  Contact me
