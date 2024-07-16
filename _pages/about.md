@@ -38,16 +38,11 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
 
 📤<u><font size=2 color=Hotpink>有志于在CV4RA从事学术研究和学科竞赛的优秀同学(<b>特别欢迎打算出国深造和考研学生加入</b>)，欢迎联系我洽谈！ Email(嗖~！🚀可达)：lizhenyu@ieee.org.</font></u>
 
-#  Projects
-- "Research on Key Fundamental Issues of Perception, Decision Making and Control of Intelligent Electric Vehicles → Intelligent electric vehicle information security guarantee theory and prevention", National key research and development plan sub-project.
-- "DPF (Diesel Particulate Filter) equipment Tongji Platform data monitoring and data analysis", Shanghai Transportation Commission.
-
 #  News
 - *2024.06*: &nbsp;![alt text](new-2.gif) Our work "Time Series Prediction Model Based on Transformer Exhaust Emissions" won the provincial first prize in the "2024 National College Student Statistical Modeling Competition" !
 - *2024.06*: &nbsp;![alt text](new-2.gif) Our paper "Reinforcement learning-based distributed impedance control of robots for compliant operation in tight interaction tasks" has been accepted by《Engineering Applications of Artificial Intelligence》! 
 - *2024.03*: &nbsp;![alt text](new-2.gif) Our paper "CSPFormer: A Cross-Spatial Pyramid Transformer for Visual Place Recognition" has been accepted by《Neurocomputing》! 
 - *2024.02*: &nbsp;![alt text](new-3.gif) Our paper "TECD_Attention: Texture-enhanced and cross-domain attention modeling for visual place recognition" has been accepted by《Computer Vision and Image Understanding》 ! 
-
 
 #  Honors and Awards
 - *2019.12* Best Paper Finalist in 2019 IEEE-ROBIO conference 
