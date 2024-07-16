@@ -53,7 +53,8 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
 - *2023.10 - present*, Teacher, School of Mechanical Engineering, Qilu University of Technology (Shandong Academy of Sciences). 
 - *2018.09 - 2023.06*, Ph.D candidate, Tongji University. 
 
-#  Publications 
+#  <summary> Publications <summary> 
+<details>
 <font color=gray face="华文新魏">(selected journal papers)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='images/eaai.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -112,5 +113,5 @@ Pengjie Xu, **Zhenyu Li**, Xun Liu, Tianrui Zhao, Lin Zhang, Yanzheng Zhao
 Aiguo Zhou, **Zhenyu Li***, Jiakun Pu, Jiangyang Yu, Ronghui Wei, Zhenbiao Dong
 </div>
 </div>
-
+</details>
 #  Contact me
