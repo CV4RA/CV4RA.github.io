@@ -22,7 +22,7 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
 📣 <font color=gray face="华文新魏">We welcome outstanding and self-motivating undergraduate students (first-year students and above) to participate in subject competitions, and (sophomore students and above) to jointly carry out research on cutting-edge topics. We also welcome outstanding postgraduate students from both inside and outside the school to collaborate on AI & Robotic research.</font>
 
 <b><font face="楷书">Available Research Topics (for prospective students):</font></b>
-
+<details>
 - <font face="华文新魏" color="Hotpink">Cross-domain adaptive visual place recognition for mobile robots</font>
 - <font face="华文新魏" color="Hotpink">Multi-modal Perception-based automatic navigation for intelligent vehicles</font>
 - <font face="华文新魏" color="Hotpink">3D semantic SLAM</font>
@@ -31,6 +31,7 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
 - <font face="华文新魏" color="Hotpink">Image quality analysis (fog, rain or snow removal technology)</font>
 
 #  Research Topics
+<details>
 - Intelligent Scene Perception
 - Robot Visual Place Recognition
 - Intelligent Driving 
@@ -39,17 +40,20 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
 📤<u><font size=2 color=Hotpink>有志于在CV4RA从事学术研究和学科竞赛的优秀同学(<b>特别欢迎打算出国深造和考研学生加入</b>)，欢迎联系我洽谈！ Email(嗖~！🚀可达)：lizhenyu@ieee.org.</font></u>
 
 #  News
+<details>
 - *2024.06*: &nbsp;![alt text](new-2.gif) Our work "Time Series Prediction Model Based on Transformer Exhaust Emissions" won the provincial first prize in the "2024 National College Student Statistical Modeling Competition" !
 - *2024.06*: &nbsp;![alt text](new-2.gif) Our paper "Reinforcement learning-based distributed impedance control of robots for compliant operation in tight interaction tasks" has been accepted by《Engineering Applications of Artificial Intelligence》! 
 - *2024.03*: &nbsp;![alt text](new-2.gif) Our paper "CSPFormer: A Cross-Spatial Pyramid Transformer for Visual Place Recognition" has been accepted by《Neurocomputing》! 
 - *2024.02*: &nbsp;![alt text](new-3.gif) Our paper "TECD_Attention: Texture-enhanced and cross-domain attention modeling for visual place recognition" has been accepted by《Computer Vision and Image Understanding》 ! 
 
 #  Honors and Awards
+<details>
 - *2019.12* Best Paper Finalist in 2019 IEEE-ROBIO conference 
 - *2019.10* Excellent Doctoral Scholarship in 2019 Tongji University
 - *2023.06* Outstanding graduates in 2023 Tongji University
 
 #  Experiences
+<details>
 - *2023.10 - present*, Teacher, School of Mechanical Engineering, Qilu University of Technology (Shandong Academy of Sciences). 
 - *2018.09 - 2023.06*, Ph.D candidate, Tongji University. 
 
