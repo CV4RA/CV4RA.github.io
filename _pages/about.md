@@ -55,7 +55,7 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
 
 #  Publications 
 <font color=gray face="华文新魏">(selected journal papers)
-
+<details>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='images/eaai.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Reinforcement learning-based distributed impedance control of robots forcompliant operation in tight interaction tasks](https://authors.elsevier.com/c/1jPYU3OWJ98fVS), *Engineering Applications of Artificial Intelligence*.
