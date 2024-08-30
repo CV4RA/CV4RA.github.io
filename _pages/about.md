@@ -38,6 +38,9 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
 📤<u><font size=2 color=Hotpink>有志于在CV4RA从事学术研究和学科竞赛的优秀同学(<b>特别欢迎打算出国深造和考研学生加入</b>)，欢迎联系我洽谈！ Email(嗖~！🚀可达)：lizhenyu@ieee.org.</font></u>
 
 #  News
+
+- *2024.07*: &nbsp;![alt text](new-3.gif) Our paper "Feature-Level Knowledge Distillation for Place Recognition based on Soft-Hard Labels Teaching Paradigm" has been accepted after minor revision by《Computer Vision and Image Understanding》 ! 
+- *2024.07*: &nbsp;![alt text](new-3.gif) Our paper "Pyramid Transformer-based Triplet Hashing for Robust Visual Place Recognition" has been accepted after minor revision by《Computer Vision and Image Understanding》 ! 
 - *2024.06*: &nbsp;![alt text](new-2.gif) Our work "Time Series Prediction Model Based on Transformer Exhaust Emissions" won the provincial first prize in the "2024 National College Student Statistical Modeling Competition" !
 - *2024.06*: &nbsp;![alt text](new-2.gif) Our paper "Reinforcement learning-based distributed impedance control of robots for compliant operation in tight interaction tasks" has been accepted by《Engineering Applications of Artificial Intelligence》! 
 - *2024.03*: &nbsp;![alt text](new-2.gif) Our paper "CSPFormer: A Cross-Spatial Pyramid Transformer for Visual Place Recognition" has been accepted by《Neurocomputing》! 
