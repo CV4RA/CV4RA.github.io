@@ -39,7 +39,7 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
 
 #  News
 
-- *2024.08*: &nbsp;![alt text](new-3.gif) Our paper "Feature-Level Knowledge Distillation for Place Recognition based on Soft-Hard Labels Teaching Paradigm" has been accepted after minor revision by《Computer Vision and Image Understanding》 ! 
+- *2024.08*: &nbsp;![alt text](new-3.gif) Our paper "Feature-Level Knowledge Distillation for Place Recognition based on Soft-Hard Labels Teaching Paradigm" has been accepted after minor revision by《IEEE Transactions on Intelligent Transportation Systems》 ! 
 - *2024.07*: &nbsp;![alt text](new-3.gif) Our paper "Pyramid Transformer-based Triplet Hashing for Robust Visual Place Recognition" has been accepted after minor revision by《Computer Vision and Image Understanding》 ! 
 - *2024.06*: &nbsp;![alt text](new-2.gif) Our work "Time Series Prediction Model Based on Transformer Exhaust Emissions" won the provincial first prize in the "2024 National College Student Statistical Modeling Competition" !
 - *2024.06*: &nbsp;![alt text](new-2.gif) Our paper "Reinforcement learning-based distributed impedance control of robots for compliant operation in tight interaction tasks" has been accepted by《Engineering Applications of Artificial Intelligence》! 
