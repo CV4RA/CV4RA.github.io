@@ -9,9 +9,6 @@ main:
   - title: "Research Topics"
     url: "/#research-topics"
 
-  - title: "Peoples"
-    url: "/#peoples"
-    
   - title: "Publications"
     url: "/#publications"
 
