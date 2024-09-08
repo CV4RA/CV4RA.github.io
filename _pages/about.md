@@ -73,7 +73,7 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
     <p><strong>GitHub:</strong> https://github.com/CV4RA</p>
   </div>
 </div>
-</div>
+
 #  Publications 
 <font color=gray face="华文新魏">(selected journal papers)
 <details>
