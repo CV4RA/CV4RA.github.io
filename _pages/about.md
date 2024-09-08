@@ -60,7 +60,6 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
 - *2018.09 - 2023.06*, Ph.D candidate, Tongji University. 
 
 #  Peoples
-<div style="text-align: center;">
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 0 0 120px;">
     <img src="_pages/lzy-1.png" alt="lzy-1's photo" width="120">
