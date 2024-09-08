@@ -62,7 +62,7 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
 #  Peoples
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 0 0 150px;">
-    <img src="lzy.png" alt="Zhang San's photo" width="150">
+    <img src="![alt text](lzy-1.png)" alt="lzy-1's photo" width="150">
   </div>
   <div style="margin-left: 20px;">
     <p><strong>Zhang San</strong> (Professor / Ph.D. Advisor)</p>
@@ -73,7 +73,7 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 0 0 150px;">
-    <img src="lzy.png" alt="Li Si's photo" width="150">
+    <img src="![alt text](lzy-2.png)" alt="lzy-2's photo" width="150">
   </div>
   <div style="margin-left: 20px;">
     <p><strong>Li Si</strong> (Ph.D. Student)</p>
