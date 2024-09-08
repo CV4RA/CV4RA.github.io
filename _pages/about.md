@@ -60,10 +60,16 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
 - *2018.09 - 2023.06*, Ph.D candidate, Tongji University. 
 
 #  Peoples
-## **Zhenyu Li** (PI)
-![alt text](lzy-1.png)
-- **Email**: [lizhenyu@qlu.edu.cn](lizhenyu@qlu.edu.cn)
-- **Research Areas**: Robot Navigation, Deep Learning, Computer Vision
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 0 0 150px;">
+    <img src="_pages/lzy-1.png" alt="Zhang San's photo" width="150">
+  </div>
+  <div style="margin-left: 20px;">
+    <p><strong>Zhang San</strong> (Professor / Ph.D. Advisor)</p>
+    <p><strong>Email:</strong> <a href="mailto:zhangsan@example.com">zhangsan@example.com</a></p>
+    <p><strong>Research Areas:</strong> Robot Navigation, Deep Learning, Computer Vision</p>
+  </div>
+</div>
 
 #  Publications 
 <font color=gray face="华文新魏">(selected journal papers)
