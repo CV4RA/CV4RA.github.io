@@ -91,8 +91,8 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
     <img src="_pages/dzj.png" alt="dzj's photo" width="120">
   </div>
   <div style="margin-left: 20px;">
-    <p><strong>Pengjie Xu</strong></p>
-    <p><strong>Postdoctoral Fellow, Shanghai Jiao Tong University</strong></p>
+    <p><strong>Zhaojun Deng</strong></p>
+    <p><strong>Postdoctoral Fellow, Tongji University</strong></p>
     <p><strong>Email:</strong> <a href="mailto:dengzhaojun@tongji.edu.cn">dengzhaojun@tongji.edu.cn</a></p>
     <p><strong>Research Areas:</strong> Machine Learning, Photoelectric Measuring Technology</p>
   </div>
