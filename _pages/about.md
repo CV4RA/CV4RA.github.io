@@ -60,6 +60,8 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
 - *2018.09 - 2023.06*, Ph.D candidate, Tongji University. 
 
 #  Peoples
+<details>
+<summary>展开查看</summary>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 0 0 120px;">
     <img src="_pages/lzy-1.png" alt="lzy-1's photo" width="120">
@@ -73,8 +75,6 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
     <p><strong>GitHub:</strong>https://github.com/CV4RA</p>
   </div>
 </div>
-
-
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 0 0 120px;">
     <img src="_pages/xpj.jpg" alt="xpj's photo" width="120">
@@ -86,7 +86,7 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
     <p><strong>Research Areas:</strong> Machine Learning, Robotics Systems</p>
   </div>
 </div>
-
+</details>
 
 #  Publications 
 <font color=gray face="华文新魏">(selected journal papers)
