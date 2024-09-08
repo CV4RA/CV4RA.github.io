@@ -49,8 +49,8 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
 
 
 #  Honors and Awards
-- *2024.08* 2024年省级大学生创新创业训练计划项目拟立项
-- *2024.06* 2024年（第十届）全国大学生统计建模大赛山东赛区一等奖
+- *2024.08* 2024年省级大学生创新创业训练计划项目拟立项 (指导老师)
+- *2024.06* 2024年（第十届）全国大学生统计建模大赛山东赛区一等奖 (指导老师)
 - *2019.12* Best Paper Finalist in 2019 IEEE-ROBIO conference 
 - *2019.10* Excellent Doctoral Scholarship in 2019 Tongji University
 - *2023.06* Outstanding graduates in 2023 Tongji University
