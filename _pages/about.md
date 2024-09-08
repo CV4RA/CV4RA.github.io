@@ -68,11 +68,25 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
     <p><strong>Zhenyu Li</strong> (PI)</p>
     <p><strong>Ph.D, Tongji University</strong></p>
     <p><strong>Email:</strong> <a href="mailto:lizhenyu@ieee.org">lizhenyu@ieee.org</a></p>
-    <p><strong>Research Areas:</strong> Computer Vision, Intelligent Perception, Edge Computing </p>
-    <p><strong>Google Scholar:</strong>[网页](https://scholar.google.com/citations?hl=en&user=VZi8rpAAAAAJ)</p>
-    <p><strong>GitHub:</strong>[网页](https://github.com/CV4RA)</p>
+    <p><strong>Research Areas:</strong> Computer Vision, Intelligent Perception, Edge Computing</p>
+    <p><strong>Google Scholar:</strong>https://scholar.google.com/citations?hl=en&user=VZi8rpAAAAAJ</p>
+    <p><strong>GitHub:</strong>https://github.com/CV4RA</p>
   </div>
 </div>
+
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 0 0 120px;">
+    <img src="_pages/xpj.jpg" alt="xpj's photo" width="120">
+  </div>
+  <div style="margin-left: 20px;">
+    <p><strong>Pengjie Xu</strong></p>
+    <p><strong>Postdoctoral Fellow, Shanghai Jiao Tong University</strong></p>
+    <p><strong>Email:</strong> <a href="mailto:xupengjie194105@sjtu.edu.cn">xupengjie194105@sjtu.edu.cn</a></p>
+    <p><strong>Research Areas:</strong> Machine Learning, Robotics Systems</p>
+  </div>
+</div>
+
 
 #  Publications 
 <font color=gray face="华文新魏">(selected journal papers)
