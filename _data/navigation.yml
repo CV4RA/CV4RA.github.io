@@ -15,12 +15,12 @@ main:
   - title: "Honors and Awards"
     url: "/#honors-and-awards"
 
-  - title: "Experiences"
-    url: "/#experiences"
-
   - title: "Peoples"
     url: "/#peoples"
 
-  - title: "Contact Me"
+  - title: "Experiences"
+    url: "/#experiences"
+
+    - title: "Contact Me"
     url: "/#contact-me"
 
