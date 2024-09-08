@@ -60,11 +60,26 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
 - *2018.09 - 2023.06*, Ph.D candidate, Tongji University. 
 
 #  Peoples
-<div style="text-align: center;">
-  <img src="![alt text](lzy1.jpg)" width="100">
-  <p><strong>Zhenyu Li</strong> (PI)</p>
-  <p>Email: <a href="mailto:lizhenyu@qlu.edu.cn">lizhenyu@qlu.edu.cn</a></p>
-  <p>Research Areas: Robot Navigation, Deep Learning, Computer Vision</p>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 0 0 150px;">
+    <img src="lzy.png" alt="Zhang San's photo" width="150">
+  </div>
+  <div style="margin-left: 20px;">
+    <p><strong>Zhang San</strong> (Professor / Ph.D. Advisor)</p>
+    <p>Email: <a href="mailto:zhangsan@example.com">zhangsan@example.com</a></p>
+    <p>Research Areas: Robot Navigation, Deep Learning, Computer Vision</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 0 0 150px;">
+    <img src="lzy.png" alt="Li Si's photo" width="150">
+  </div>
+  <div style="margin-left: 20px;">
+    <p><strong>Li Si</strong> (Ph.D. Student)</p>
+    <p>Email: <a href="mailto:lisi@example.com">lisi@example.com</a></p>
+    <p>Research Areas: Autonomous Driving, Visual and Semantic Segmentation</p>
+  </div>
 </div>
 
 #  Publications 
