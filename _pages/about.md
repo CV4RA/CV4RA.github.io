@@ -61,13 +61,14 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
 
 #  Peoples
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 0 0 150px;">
-    <img src="_pages/lzy-1.png" alt="lzy-1's photo" width="150">
+  <div style="flex: 0 0 120px;">
+    <img src="_pages/lzy-1.png" alt="lzy-1's photo" width="120">
   </div>
   <div style="margin-left: 20px;">
-    <p><strong>Zhenyu Li</strong> (PI & Ph.D.)</p>
+    <p><strong>Zhenyu Li</strong> (PI)</p>
+    <p><strong>Ph.D, Tongji University</strong></p>
     <p><strong>Email:</strong> <a href="mailto:lizhenyu@ieee.org">lizhenyu@ieee.org</a></p>
-    <p><strong>Research Areas:</strong> Robot Navigation, Deep Learning, Computer Vision</p>
+    <p><strong>Research Areas:</strong> Computer Vision, Intelligent Perception, Edge Computing </p>
   </div>
 </div>
 
