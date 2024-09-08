@@ -86,6 +86,40 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
     <p><strong>Research Areas:</strong> Machine Learning, Robotics Systems</p>
   </div>
 </div>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 0 0 120px;">
+    <img src="_pages/dzj.png" alt="dzj's photo" width="120">
+  </div>
+  <div style="margin-left: 20px;">
+    <p><strong>Pengjie Xu</strong></p>
+    <p><strong>Postdoctoral Fellow, Shanghai Jiao Tong University</strong></p>
+    <p><strong>Email:</strong> <a href="mailto:dengzhaojun@tongji.edu.cn">dengzhaojun@tongji.edu.cn</a></p>
+    <p><strong>Research Areas:</strong> Machine Learning, Photoelectric Measuring Technology</p>
+  </div>
+</div>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 0 0 120px;">
+    <img src="_pages/pwh.jpg" alt="pwh's photo" width="120">
+  </div>
+  <div style="margin-left: 20px;">
+    <p><strong>Wenhao Pei</strong></p>
+    <p><strong>Third year undergraduate, Qilu University of Technology(Shandong Academy of Sciences)</strong></p>
+    <p><strong>Email:</strong> <a href="mailto:202201210016@stu.qlu.edu.cn">202201210016@stu.qlu.edu.cn</a></p>
+    <p><strong>Research Areas:</strong>Visual Localization and Navigation, Intelligent Perception</p>
+  </div>
+</div>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 0 0 120px;">
+    <img src="_pages/sty.png" alt="sty's photo" width="120">
+  </div>
+  <div style="margin-left: 20px;">
+    <p><strong>Tianyi Shang</strong></p>
+    <p><strong>Third year undergraduate, Fuzhou University</strong></p>
+    <p><strong>Email:</strong> <a href="mailto:832201319@fzu.edu.cn">832201319@fzu.edu.cn</a></p>
+    <p><strong>Research Areas:</strong>Computer Vision, Intelligent Perception</p>
+  </div>
+</div>
+
 </details>
 
 #  Publications 
