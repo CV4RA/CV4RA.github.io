@@ -130,7 +130,7 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
 <div class='paper-box-text' markdown="1">
 [Pyramid transformer-based triplet hashing for robust visual place recognition](https://www.sciencedirect.com/science/article/pii/S1077314224002480), *Computer Vision and Image Understanding*.
 
-**Zhenyu Li** and Pengjie Xu
+**Zhenyu Li*** and Pengjie Xu
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='images/eaai.jpg' alt="sym" width="100%"></div></div>
