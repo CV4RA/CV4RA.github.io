@@ -126,7 +126,7 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
 <font color=gray face="华文新魏">(selected journal papers)
 <details>
 <summary>展开查看</summary>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVIU</div><img src='images/CVIU-1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVIU</div><img src='images/cviu-1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Pyramid transformer-based triplet hashing for robust visual place recognition](https://www.sciencedirect.com/science/article/pii/S1077314224002480), *Computer Vision and Image Understanding*.
 
