@@ -123,6 +123,22 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
 </details>
 
 #  Publications 
+<font color=gray face="华文新魏">(submitted journal papers)
+<details>
+<summary>展开查看</summary>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVIU</div><img src='images/ral.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[MambaPlace: Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms](https://arxiv.org/pdf/2408.15740), *IEEE Robotics and Automation Letters*.
+
+[code](https://github.com/CV4RA/MambaPlace)
+
+Tianyi Shang, **Zhenyu Li***
+</div>
+</div>
+
+
+
+
 <font color=gray face="华文新魏">(selected journal papers)
 <details>
 <summary>展开查看</summary>
