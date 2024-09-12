@@ -139,7 +139,7 @@ Tianyi Shang, **Zhenyu Li***
 <div class='paper-box-text' markdown="1">
 Towards to Robust Visual Place Recognition for Mobile Robots with an End-to-end Dark-enhanced Net, *IEEE Transactions on Industrial Informatics*.
 
-[![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/Dark-enhanced-VPR-Net)
+<a href="/workspaces/CV4RA.github.io/_pages/tii-articles-template.pdf"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/Dark-enhanced-VPR-Net)
 
 **Zhenyu Li***
 </div>
