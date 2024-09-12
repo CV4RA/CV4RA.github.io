@@ -144,10 +144,6 @@ Towards to Robust Visual Place Recognition for Mobile Robots with an End-to-end 
 **Zhenyu Li***
 </div>
 </div>
-
-
-
-
 <font color=gray face="华文新魏">(selected journal papers)
 <details>
 <summary>展开查看</summary>
