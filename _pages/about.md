@@ -135,6 +135,18 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
 Tianyi Shang, **Zhenyu Li***
 </div>
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII</div><img src='images/ral.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Towards to Robust Visual Place Recognition for Mobile Robots with an End-to-end Dark-enhanced Net, *IEEE Transactions on Industrial Informatics*.
+
+[![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/Dark-enhanced-VPR-Net)
+
+**Zhenyu Li***
+</div>
+</div>
+
+
+
 
 <font color=gray face="华文新魏">(selected journal papers)
 <details>
