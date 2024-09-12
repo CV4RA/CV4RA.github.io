@@ -72,6 +72,9 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
     <p><strong>Email:</strong> <a href="mailto:lizhenyu@ieee.org">lizhenyu@ieee.org</a></p>
     <p><strong>Research Areas:</strong> Computer Vision, Intelligent Perception, Edge Computing</p>
     <p><strong>Google Scholar:</strong>https://scholar.google.com/citations?hl=en&user=VZi8rpAAAAAJ</p>
+    
+    [![Google Scholar](https://img.shields.io/badge/Google-Scholar-blue?logo=google-scholar)](https://scholar.google.com/citations?hl=en&user=VZi8rpAAAAAJ)
+
     <p><strong>GitHub:</strong>https://github.com/CV4RA</p>
   </div>
 </div>
