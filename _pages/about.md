@@ -72,9 +72,6 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
     <p><strong>Email:</strong> <a href="mailto:lizhenyu@ieee.org">lizhenyu@ieee.org</a></p>
     <p><strong>Research Areas:</strong> Computer Vision, Intelligent Perception, Edge Computing</p>
     <p><strong>Google Scholar:</strong>https://scholar.google.com/citations?hl=en&user=VZi8rpAAAAAJ</p>
-    
-    [![Google Scholar](https://img.shields.io/badge/Google-Scholar-blue?logo=google-scholar)](https://scholar.google.com/citations?hl=en&user=VZi8rpAAAAAJ)
-
     <p><strong>GitHub:</strong>https://github.com/CV4RA</p>
   </div>
 </div>
@@ -110,6 +107,7 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
     <p><strong>Email:</strong> <a href="mailto:202201210016@stu.qlu.edu.cn">202201210016@stu.qlu.edu.cn</a></p>
     <p><strong>Research Areas:</strong>Visual Localization and Navigation, Intelligent Perception</p>
     <p><strong>Paper:</strong>1 paper submitted to RAL (TOP Journal)</p>
+    <p><strong>Award-winning:</strong>2 Innovation Competition Awards</p>
   </div>
 </div>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
