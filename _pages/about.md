@@ -106,6 +106,7 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
     <p><strong>Third year undergraduate, Qilu University of Technology(Shandong Academy of Sciences)</strong></p>
     <p><strong>Email:</strong> <a href="mailto:202201210016@stu.qlu.edu.cn">202201210016@stu.qlu.edu.cn</a></p>
     <p><strong>Research Areas:</strong>Visual Localization and Navigation, Intelligent Perception</p>
+    <p><strong>Paper:</strong>1 paper submitted to RAL (TOP Journal)</p>
   </div>
 </div>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
@@ -117,6 +118,7 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
     <p><strong>Third year undergraduate, Fuzhou University</strong></p>
     <p><strong>Email:</strong> <a href="mailto:832201319@fzu.edu.cn">832201319@fzu.edu.cn</a></p>
     <p><strong>Research Areas:</strong>Computer Vision, Intelligent Perception</p>
+    <p><strong>Paper:</strong>1 paper submitted to RAL (TOP Journal)</p>
   </div>
 </div>
 
