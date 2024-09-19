@@ -135,7 +135,7 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mambaplace-text-to-point-cloud-cross-modal/visual-place-recognition-on-kitti360pose)](https://paperswithcode.com/sota/visual-place-recognition-on-kitti360pose?p=mambaplace-text-to-point-cloud-cross-modal) <a href="https://arxiv.org/pdf/2408.15740"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/MambaPlace)
 
-Tianyi Shang, **Zhenyu Li***
+Tianyi Shang, **Zhenyu Li***, Wenhao Pei
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII</div><img src='images/ral.jpg' alt="sym" width="100%"></div></div>
