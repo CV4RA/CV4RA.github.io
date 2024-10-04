@@ -135,16 +135,16 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mambaplace-text-to-point-cloud-cross-modal/visual-place-recognition-on-kitti360pose)](https://paperswithcode.com/sota/visual-place-recognition-on-kitti360pose?p=mambaplace-text-to-point-cloud-cross-modal) <a href="https://arxiv.org/pdf/2408.15740"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/MambaPlace)
 
-Tianyi Shang, **Zhenyu Li***, Wenhao Pei
+Tianyi Shang(大三本科生), **Zhenyu Li***, Wenhao Pei(大三本科生)
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII</div><img src='images/ral.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Towards to Robust Visual Place Recognition for Mobile Robots with an End-to-end Dark-enhanced Net, *IEEE Transactions on Industrial Informatics*.
 
-[![Paper](https://img.shields.io/badge/Paper-pdf-brightgreen)](_pages/tii-articles-template.pdf) [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/Dark-enhanced-VPR-Net)
+[![Paper](https://img.shields.io/badge/Paper-pdf-brightgreen)](_pages/FINALVERSION.pdf) [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/Dark-enhanced-VPR-Net)
 
-**Zhenyu Li***
+**Zhenyu Li***,Tianyi Shang(大三本科生), Pengjie Xu, Zhaojun Deng, and Ruirui Zhang
 </div>
 </div>
 <font color=gray face="华文新魏">(selected journal papers)
