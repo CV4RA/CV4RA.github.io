@@ -129,7 +129,7 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
 <font color=gray face="华文新魏">(submitted journal papers)
 <details>
 <summary>展开查看</summary>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL</div><img src='images/ral.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-RAL</div><img src='images/ral.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [MambaPlace: Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms](https://arxiv.org/pdf/2408.15740), *IEEE Robotics and Automation Letters*.
 
@@ -138,16 +138,16 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, is a
 Tianyi Shang(大三本科生), **Zhenyu Li***, Wenhao Pei(大三本科生)
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII</div><img src='images/ral.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TII</div><img src='images/ral.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Towards to Robust Visual Place Recognition for Mobile Robots with an End-to-end Dark-enhanced Net, *IEEE Transactions on Industrial Informatics*.
 
 [![Paper](https://img.shields.io/badge/Paper-pdf-brightgreen)](_pages/FINALVERSION.pdf) [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/Dark-enhanced-VPR-Net)
 
-**Zhenyu Li***,Tianyi Shang(大三本科生), Pengjie Xu, Zhaojun Deng, and Ruirui Zhang
+**Zhenyu Li***, Pengjie Xu, Zhenbiao Dong, Zhaojun Deng, and Ruirui Zhang
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII</div><img src='images/itits.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TITS</div><img src='images/itits.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Feature-Level Knowledge Distillation for Place Recognition based on Soft-Hard Labels Teaching Paradigm, *IEEE Transactions on Intelligent Transportation Systems*.
 
