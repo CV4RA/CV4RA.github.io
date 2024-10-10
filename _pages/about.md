@@ -140,7 +140,7 @@ Tianyi Shang(大三本科生), **Zhenyu Li***, Wenhao Pei(大三本科生)
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TII</div><img src='images/tii.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Towards to Robust Visual Place Recognition for Mobile Robots with an End-to-end Dark-enhanced Net, *IEEE Transactions on Industrial Informatics*.
+Towards to Robust Visual Place Recognition for Mobile Robots with an End-to-end Dark-enhanced Net, *IEEE Transactions on Industrial Informatics*. (<font color=Fuchsia>accepted</font>)
 
 [![Paper](https://img.shields.io/badge/Paper-pdf-brightgreen)](_pages/FINALVERSION.pdf) [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/Dark-enhanced-VPR-Net)
 
@@ -149,7 +149,7 @@ Towards to Robust Visual Place Recognition for Mobile Robots with an End-to-end 
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TITS</div><img src='images/itits.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Feature-Level Knowledge Distillation for Place Recognition based on Soft-Hard Labels Teaching Paradigm, *IEEE Transactions on Intelligent Transportation Systems*.
+Feature-Level Knowledge Distillation for Place Recognition based on Soft-Hard Labels Teaching Paradigm, *IEEE Transactions on Intelligent Transportation Systems*. (<font color=Fuchsia>accepted</font>)
 
 [![Paper](https://img.shields.io/badge/Paper-pdf-brightgreen)](_pages/itits.pdf) [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/ASHT-KD)
 
