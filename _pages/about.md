@@ -147,7 +147,7 @@ Towards to Robust Visual Place Recognition for Mobile Robots with an End-to-end 
 **Zhenyu Li***,Tianyi Shang(大三本科生), Pengjie Xu, Zhaojun Deng, and Ruirui Zhang
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII</div><img src='images/itits.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII</div><img src='images/itits.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Feature-Level Knowledge Distillation for Place Recognition based on Soft-Hard Labels Teaching Paradigm, *IEEE Transactions on Intelligent Transportation Systems*.
 
