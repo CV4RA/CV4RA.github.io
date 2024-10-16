@@ -144,7 +144,7 @@ Towards to Robust Visual Place Recognition for Mobile Robots with an End-to-end 
 
 [![Paper](https://img.shields.io/badge/Paper-pdf-brightgreen)](_pages/FINALVERSION.pdf) [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/Dark-enhanced-VPR-Net)
 
-**Zhenyu Li***, Pengjie Xu, Zhenbiao Dong, Zhaojun Deng, and Ruirui Zhang
+**Zhenyu Li***, Tianyi Shang (大三本科生), Pengjie Xu, Zhaojun Deng, and Ruirui Zhang
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TITS</div><img src='images/itits.png' alt="sym" width="100%"></div></div>
