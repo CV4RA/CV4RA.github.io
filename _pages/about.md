@@ -140,7 +140,7 @@ Tianyi Shang(大三本科生), **Zhenyu Li***, Wenhao Pei(大三本科生)
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TII</div><img src='images/tii.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Towards to Robust Visual Place Recognition for Mobile Robots with an End-to-end Dark-enhanced Net, *IEEE Transactions on Industrial Informatics*. (<font color=Fuchsia>accepted</font>)
+[Towards Robust Visual Place Recognition for Mobile Robots with an End-to-end Dark-enhanced Net](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10726589), *IEEE Transactions on Industrial Informatics*. (<font color=Fuchsia>accepted</font>)
 
 [![Paper](https://img.shields.io/badge/Paper-pdf-brightgreen)](_pages/FINALVERSION.pdf) [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/Dark-enhanced-VPR-Net)
 
