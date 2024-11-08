@@ -59,72 +59,6 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, join
 - *2023.10 - present*, Teacher, School of Mechanical Engineering, Qilu University of Technology (Shandong Academy of Sciences). 
 - *2018.09 - 2023.06*, Ph.D candidate, Tongji University. 
 
-#  Teams
-<details>
-<summary>展开查看</summary>
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 0 0 120px;">
-    <img src="_pages/lzy-1.png" alt="lzy-1's photo" width="120">
-  </div>
-  <div style="margin-left: 20px;">
-    <p><strong>Zhenyu Li</strong> (PI)  Qilu University of Technology(Shandong Academy of Sciences)</p>
-    <p><strong>Ph.D, Tongji University</strong></p>
-    <p><strong>Email:</strong> <a href="mailto:lizhenyu@ieee.org">lizhenyu@ieee.org</a></p>
-    <p><strong>Research Areas:</strong> Computer Vision, Intelligent Perception, Edge Computing</p>
-    <p><strong>Google Scholar:</strong>https://scholar.google.com/citations?hl=en&user=VZi8rpAAAAAJ</p>
-    <p><strong>GitHub:</strong>https://github.com/CV4RA</p>
-  </div>
-</div>
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 0 0 120px;">
-    <img src="_pages/xpj.jpg" alt="xpj's photo" width="120">
-  </div>
-  <div style="margin-left: 20px;">
-    <p><strong>Pengjie Xu</strong></p>
-    <p><strong>Postdoctoral Fellow, Shanghai Jiao Tong University</strong></p>
-    <p><strong>Email:</strong> <a href="mailto:xupengjie194105@sjtu.edu.cn">xupengjie194105@sjtu.edu.cn</a></p>
-    <p><strong>Research Areas:</strong> Machine Learning, Robotics Systems</p>
-  </div>
-</div>
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 0 0 120px;">
-    <img src="_pages/dzj.png" alt="dzj's photo" width="120">
-  </div>
-  <div style="margin-left: 20px;">
-    <p><strong>Zhaojun Deng</strong></p>
-    <p><strong>Postdoctoral Fellow, Tongji University</strong></p>
-    <p><strong>Email:</strong> <a href="mailto:dengzhaojun@tongji.edu.cn">dengzhaojun@tongji.edu.cn</a></p>
-    <p><strong>Research Areas:</strong> Machine Learning, Photoelectric Measuring Technology</p>
-  </div>
-</div>
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 0 0 120px;">
-    <img src="_pages/pwh.jpg" alt="pwh's photo" width="120">
-  </div>
-  <div style="margin-left: 20px;">
-    <p><strong>Wenhao Pei</strong></p>
-    <p><strong>Third year undergraduate, Qilu University of Technology(Shandong Academy of Sciences)</strong></p>
-    <p><strong>Email:</strong> <a href="mailto:202201210016@stu.qlu.edu.cn">202201210016@stu.qlu.edu.cn</a></p>
-    <p><strong>Research Areas:</strong>Visual Localization and Navigation, Intelligent Perception</p>
-    <p><strong>Paper (2):</strong>1 SCI paper → RAL (TOP Journal); 1 SCI paper → ITITS (TOP Journal)</p>
-    <p><strong>Award-winning:</strong>2 Innovation Competition Awards</p>
-  </div>
-</div>
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 0 0 120px;">
-    <img src="_pages/sty.png" alt="sty's photo" width="120">
-  </div>
-  <div style="margin-left: 20px;">
-    <p><strong>Tianyi Shang</strong>(Visiting Student)</p>
-    <p><strong>Third year undergraduate, Fuzhou University</strong></p>
-    <p><strong>Email:</strong> <a href="mailto:832201319@fzu.edu.cn">832201319@fzu.edu.cn</a></p>
-    <p><strong>Research Areas:</strong>Computer Vision, Intelligent Perception</p>
-    <p><strong>Paper (3):</strong>1 SCI paper → RAL (TOP Journal); 1 SCI paper → ITITS (TOP Journal); 1 SCI paper → TAI (TOP Journal)</p>
-  </div>
-</div>
-
-</details>
-
 #  Publications 
 <font color=gray face="华文新魏">(submitted journal papers)
 <details>
@@ -226,7 +160,71 @@ Aiguo Zhou, **Zhenyu Li***, Jiakun Pu, Jiangyang Yu, Ronghui Wei, Zhenbiao Dong
 </div>
 </div>
 
+#  Teams
+<details>
+<summary>展开查看</summary>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 0 0 120px;">
+    <img src="_pages/lzy-1.png" alt="lzy-1's photo" width="120">
+  </div>
+  <div style="margin-left: 20px;">
+    <p><strong>Zhenyu Li</strong> (PI)  Qilu University of Technology(Shandong Academy of Sciences)</p>
+    <p><strong>Ph.D, Tongji University</strong></p>
+    <p><strong>Email:</strong> <a href="mailto:lizhenyu@ieee.org">lizhenyu@ieee.org</a></p>
+    <p><strong>Research Areas:</strong> Computer Vision, Intelligent Perception, Edge Computing</p>
+    <p><strong>Google Scholar:</strong>https://scholar.google.com/citations?hl=en&user=VZi8rpAAAAAJ</p>
+    <p><strong>GitHub:</strong>https://github.com/CV4RA</p>
+  </div>
+</div>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 0 0 120px;">
+    <img src="_pages/xpj.jpg" alt="xpj's photo" width="120">
+  </div>
+  <div style="margin-left: 20px;">
+    <p><strong>Pengjie Xu</strong></p>
+    <p><strong>Postdoctoral Fellow, Shanghai Jiao Tong University</strong></p>
+    <p><strong>Email:</strong> <a href="mailto:xupengjie194105@sjtu.edu.cn">xupengjie194105@sjtu.edu.cn</a></p>
+    <p><strong>Research Areas:</strong> Machine Learning, Robotics Systems</p>
+  </div>
+</div>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 0 0 120px;">
+    <img src="_pages/dzj.png" alt="dzj's photo" width="120">
+  </div>
+  <div style="margin-left: 20px;">
+    <p><strong>Zhaojun Deng</strong></p>
+    <p><strong>Postdoctoral Fellow, Tongji University</strong></p>
+    <p><strong>Email:</strong> <a href="mailto:dengzhaojun@tongji.edu.cn">dengzhaojun@tongji.edu.cn</a></p>
+    <p><strong>Research Areas:</strong> Machine Learning, Photoelectric Measuring Technology</p>
+  </div>
+</div>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 0 0 120px;">
+    <img src="_pages/pwh.jpg" alt="pwh's photo" width="120">
+  </div>
+  <div style="margin-left: 20px;">
+    <p><strong>Wenhao Pei</strong></p>
+    <p><strong>Third year undergraduate, Qilu University of Technology(Shandong Academy of Sciences)</strong></p>
+    <p><strong>Email:</strong> <a href="mailto:202201210016@stu.qlu.edu.cn">202201210016@stu.qlu.edu.cn</a></p>
+    <p><strong>Research Areas:</strong>Visual Localization and Navigation, Intelligent Perception</p>
+    <p><strong>Paper (2):</strong>1 SCI paper → RAL (TOP Journal); 1 SCI paper → ITITS (TOP Journal)</p>
+    <p><strong>Award-winning:</strong>2 Innovation Competition Awards</p>
+  </div>
+</div>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 0 0 120px;">
+    <img src="_pages/sty.png" alt="sty's photo" width="120">
+  </div>
+  <div style="margin-left: 20px;">
+    <p><strong>Tianyi Shang</strong>(Visiting Student)</p>
+    <p><strong>Third year undergraduate, Fuzhou University</strong></p>
+    <p><strong>Email:</strong> <a href="mailto:832201319@fzu.edu.cn">832201319@fzu.edu.cn</a></p>
+    <p><strong>Research Areas:</strong>Computer Vision, Intelligent Perception</p>
+    <p><strong>Paper (3):</strong>1 SCI paper → RAL (TOP Journal); 1 SCI paper → ITITS (TOP Journal); 1 SCI paper → TAI (TOP Journal)</p>
+  </div>
+</div>
 
+</details>
 
 
 #  Contact me
