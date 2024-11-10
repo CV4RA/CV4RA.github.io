@@ -147,9 +147,18 @@ Tianyi Shang(大三本科生), **Zhenyu Li***, Wenhao Pei(大三本科生)
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TITS</div><img src='images/its.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Multi-Modal Attention Perception for Intelligent Vehicle Navigation using Deep Reinforcement Learning](https://arxiv.org/pdf/2408.15740), *IEEE Transactions on Intelligent Transportation Systems*. 
+Multi-Modal Attention Perception for Intelligent Vehicle Navigation using Deep Reinforcement Learning, *IEEE Transactions on Intelligent Transportation Systems*. 
 
 [![Paper](https://img.shields.io/badge/Paper-pdf-brightgreen)](_pages/T_ITITS_MMAP_DRL_Nav (1).pdf) [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/MMAP-DRL-Nav)
+
+**Zhenyu Li***, Tianyi Shang(大三本科生), Pengjie Xu, Wenhao Pei(大三本科生)
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TAI</div><img src='images/tai.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+CWPFormer: Towards High-performance Visual Place Recognition for Robot with Cross-weight Attention Learning, *IEEE Transactions on Artificial Intelligence*. 
+
+[![Paper](https://img.shields.io/badge/Paper-pdf-brightgreen)](_pages/TAI_CWPFormer__Towards_High_performance_Visual_Place_Recognition_for_Robot_with_Cross_weight_Attention_Learning (2).pdf) [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/CWPFormer)
 
 **Zhenyu Li***, Tianyi Shang(大三本科生), Pengjie Xu, Wenhao Pei(大三本科生)
 </div>
