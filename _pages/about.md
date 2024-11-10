@@ -129,6 +129,13 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, join
 <font color=gray face="华文新魏">(2024 submitted papers)
 <details>
 <summary>展开查看</summary>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2025</div><img src='images/cvpr.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Bridging Text and Vision: ********]
+
+Tianyi Shang(大三本科生), **Zhenyu Li***, Pengjie Xu, Wenhao Pei(大三本科生)
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-RAL</div><img src='images/ral.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [MambaPlace: Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms](https://arxiv.org/pdf/2408.15740), *IEEE Robotics and Automation Letters*.
@@ -175,7 +182,7 @@ Pengjie Xu, **Zhenyu Li**, Xun Liu, Tianrui Zhao, Lin Zhang, Yanzheng Zhao
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/CSPFormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[CSPFormer: A Cross-Spatial Pyramid Transformer for Visual Place Recognition](https://www.sciencedirect.com/science/article/pii/S0925231224002431), *Neurocomputing*. ((CCF-C))
+[CSPFormer: A Cross-Spatial Pyramid Transformer for Visual Place Recognition](https://www.sciencedirect.com/science/article/pii/S0925231224002431), *Neurocomputing*. (CCF-C)
 
 **Zhenyu Li***, Pengjie Xu
 </div>
