@@ -131,7 +131,7 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, join
 <summary>展开查看</summary>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2025</div><img src='images/cvpr.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Bridging Text and Vision: ********]
+Bridging Text and Vision: *******************
 
 Tianyi Shang(大三本科生), **Zhenyu Li***, Pengjie Xu, Wenhao Pei(大三本科生)
 </div>
