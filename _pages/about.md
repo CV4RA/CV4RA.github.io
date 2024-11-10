@@ -126,7 +126,7 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, join
 </details>
 
 #  Publications 
-<font color=gray face="华文新魏">(submitted journal papers)
+<font color=gray face="华文新魏">(2024 submitted papers)
 <details>
 <summary>展开查看</summary>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-RAL</div><img src='images/ral.jpg' alt="sym" width="100%"></div></div>
@@ -138,15 +138,6 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, join
 Tianyi Shang(大三本科生), **Zhenyu Li***, Wenhao Pei(大三本科生)
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TII</div><img src='images/tii.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Towards Robust Visual Place Recognition for Mobile Robots with an End-to-end Dark-enhanced Net](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10726589), *IEEE Transactions on Industrial Informatics*. 
-
-[![Paper](https://img.shields.io/badge/Paper-pdf-brightgreen)](_pages/FINALVERSION.pdf) [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/Dark-enhanced-VPR-Net)
-
-**Zhenyu Li***, Tianyi Shang (大三本科生), Pengjie Xu, Zhaojun Deng, and Ruirui Zhang
-</div>
-</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TITS</div><img src='images/itits.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Feature-Level Knowledge Distillation for Place Recognition based on Soft-Hard Labels Teaching Paradigm, *IEEE Transactions on Intelligent Transportation Systems*. (<font color=Fuchsia>accepted</font>)
@@ -156,77 +147,45 @@ Feature-Level Knowledge Distillation for Place Recognition based on Soft-Hard La
 **Zhenyu Li***,Tianyi Shang(大三本科生), Pengjie Xu, Zhaojun Deng, and Ruirui Zhang
 </div>
 </div>
-<font color=gray face="华文新魏">(selected journal papers)
+<font color=gray face="华文新魏">(2024 publicated papers)
 <details>
 <summary>展开查看</summary>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TII</div><img src='images/tii.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Towards Robust Visual Place Recognition for Mobile Robots with an End-to-end Dark-enhanced Net](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10726589), *IEEE Transactions on Industrial Informatics*. 
+
+[![Paper](https://img.shields.io/badge/Paper-pdf-brightgreen)](_pages/FINALVERSION.pdf) [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/Dark-enhanced-VPR-Net)
+
+**Zhenyu Li***, Tianyi Shang (大三本科生), Pengjie Xu, Zhaojun Deng, and Ruirui Zhang
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVIU</div><img src='images/cviu.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Pyramid transformer-based triplet hashing for robust visual place recognition](https://www.sciencedirect.com/science/article/pii/S1077314224002480), *Computer Vision and Image Understanding*.
+[Pyramid transformer-based triplet hashing for robust visual place recognition](https://www.sciencedirect.com/science/article/pii/S1077314224002480), *Computer Vision and Image Understanding*. (CCF-B)
 
 **Zhenyu Li*** and Pengjie Xu
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='images/eaai.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Reinforcement learning-based distributed impedance control of robots forcompliant operation in tight interaction tasks](https://authors.elsevier.com/c/1jPYU3OWJ98fVS), *Engineering Applications of Artificial Intelligence*.
+[Reinforcement learning-based distributed impedance control of robots forcompliant operation in tight interaction tasks](https://authors.elsevier.com/c/1jPYU3OWJ98fVS), *Engineering Applications of Artificial Intelligence*. 
 
 Pengjie Xu, **Zhenyu Li**, Xun Liu, Tianrui Zhao, Lin Zhang, Yanzheng Zhao
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/CSPFormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[CSPFormer: A Cross-Spatial Pyramid Transformer for Visual Place Recognition](https://www.sciencedirect.com/science/article/pii/S0925231224002431), *Neurocomputing*.
+[CSPFormer: A Cross-Spatial Pyramid Transformer for Visual Place Recognition](https://www.sciencedirect.com/science/article/pii/S0925231224002431), *Neurocomputing*. ((CCF-C))
 
 **Zhenyu Li***, Pengjie Xu
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVIU</div><img src='images/TECD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[TECD_Attention: Texture-enhanced and cross-domain attention modeling for visual place recognition](https://www.sciencedirect.com/science/article/pii/S1077314224000109), *Computer Vision and Image Understanding*.
+[TECD_Attention: Texture-enhanced and cross-domain attention modeling for visual place recognition](https://www.sciencedirect.com/science/article/pii/S1077314224000109), *Computer Vision and Image Understanding*. (CCF-B)
 
 **Zhenyu Li***, Zhenbiao Dong
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI</div><img src='images/RDDRL.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[RDDRL: a recurrent deduction deep reinforcement learning model for multimodal vision-robot navigation](https://link.springer.com/article/10.1007/s10489-023-04754-7), *Applied Intelligence*.
-
-**Zhenyu Li***, Aiguo Zhou
-</div>
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI</div><img src='images/TSF.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[TSF-transformer: a time series forecasting model for exhaust gas emission using transformer](https://link.springer.com/article/10.1007/s10489-022-04326-1), *Applied Intelligence*.
-
-**Zhenyu Li***, Xikun, Zhenbiao Dong
-</div>
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JIRS</div><img src='images/self.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Self-selection salient region-based scene recognition using slight-weight convolutional neural network](https://link.springer.com/article/10.1007/s10846-021-01421-2), *Journal of Intelligent & Robotic Systems*.
-
-**Zhenyu Li***, Aiguo Zhou
-</div>
-</div>
-<font color=gray face="华文新魏">(selected conference papers)
-<details>
-<summary>展开查看</summary>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO-(best paper finalist)</div><img src='images/robio.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Deep Fusion of Multi-Layers Salient CNN Features and Similarity Network for Robust Visual Place Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8961602), *IEEE International Conference on Robotics and Biomimetics*.
-
-**Zhenyu Li***, Aiguo Zhou, Mingyang Wang, Yong Shen
-</div>
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SAE</div><img src='images/sae.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Multi-Modal Neural Feature Fusion for Pose Estimation and Scene Perception of Intelligent Vehicle](https://www.sae.org/publications/technical-papers/content/2021-01-0188/), *SAE Technical Paper*.
-
-Aiguo Zhou, **Zhenyu Li***, Jiakun Pu, Jiangyang Yu, Ronghui Wei, Zhenbiao Dong
-</div>
-</div>
-
-
-
 
 #  Contact me
