@@ -169,7 +169,7 @@ CWPFormer: Towards High-performance Visual Place Recognition for Robot with Cros
 <summary>展开查看</summary>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TITS</div><img src='images/itits.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Feature-Level Knowledge Distillation for Place Recognition based on Soft-Hard Labels Teaching Paradigm](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10759546), *IEEE Transactions on Intelligent Transportation Systems*. (<font color=Fuchsia>accepted</font>)
+[Feature-Level Knowledge Distillation for Place Recognition based on Soft-Hard Labels Teaching Paradigm](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10759546), *IEEE Transactions on Intelligent Transportation Systems*. (中科院1区top)
 
 [![Paper](https://img.shields.io/badge/Paper-pdf-brightgreen)](_pages/itits.pdf) [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/ASHT-KD)
 
@@ -178,7 +178,7 @@ CWPFormer: Towards High-performance Visual Place Recognition for Robot with Cros
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TII</div><img src='images/tii.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Towards Robust Visual Place Recognition for Mobile Robots with an End-to-end Dark-enhanced Net](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10726589), *IEEE Transactions on Industrial Informatics*. 
+[Towards Robust Visual Place Recognition for Mobile Robots with an End-to-end Dark-enhanced Net](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10726589), *IEEE Transactions on Industrial Informatics*. (中科院1区top)
 
 [![Paper](https://img.shields.io/badge/Paper-pdf-brightgreen)](_pages/FINALVERSION.pdf) [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/Dark-enhanced-VPR-Net)
 
@@ -194,14 +194,14 @@ CWPFormer: Towards High-performance Visual Place Recognition for Robot with Cros
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='images/eaai.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Reinforcement learning-based distributed impedance control of robots forcompliant operation in tight interaction tasks](https://authors.elsevier.com/c/1jPYU3OWJ98fVS), *Engineering Applications of Artificial Intelligence*. 
+[Reinforcement learning-based distributed impedance control of robots forcompliant operation in tight interaction tasks](https://authors.elsevier.com/c/1jPYU3OWJ98fVS), *Engineering Applications of Artificial Intelligence*. (中科院1区top)
 
 Pengjie Xu, **Zhenyu Li**, Xun Liu, Tianrui Zhao, Lin Zhang, Yanzheng Zhao
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/CSPFormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[CSPFormer: A Cross-Spatial Pyramid Transformer for Visual Place Recognition](https://www.sciencedirect.com/science/article/pii/S0925231224002431), *Neurocomputing*. (CCF-C)
+[CSPFormer: A Cross-Spatial Pyramid Transformer for Visual Place Recognition](https://www.sciencedirect.com/science/article/pii/S0925231224002431), *Neurocomputing*. (中科院二区top, CCF-C)
 
 **Zhenyu Li***, Pengjie Xu
 </div>
