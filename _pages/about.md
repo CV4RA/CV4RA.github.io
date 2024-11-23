@@ -163,18 +163,19 @@ CWPFormer: Towards High-performance Visual Place Recognition for Robot with Cros
 **Zhenyu Li***, Tianyi Shang(大三本科生), Pengjie Xu, Wenhao Pei(大三本科生)
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TITS</div><img src='images/itits.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-Feature-Level Knowledge Distillation for Place Recognition based on Soft-Hard Labels Teaching Paradigm, *IEEE Transactions on Intelligent Transportation Systems*. (<font color=Fuchsia>accepted</font>)
 
-[![Paper](https://img.shields.io/badge/Paper-pdf-brightgreen)](_pages/itits.pdf) [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/ASHT-KD)
-
-**Zhenyu Li***,Tianyi Shang(大三本科生), Pengjie Xu, Zhaojun Deng, and Ruirui Zhang
-</div>
-</div>
 <font color=gray face="华文新魏">(2024 publicated papers)
 <details>
 <summary>展开查看</summary>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TITS</div><img src='images/itits.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Feature-Level Knowledge Distillation for Place Recognition based on Soft-Hard Labels Teaching Paradigm](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10759546), *IEEE Transactions on Intelligent Transportation Systems*. (<font color=Fuchsia>accepted</font>)
+
+[![Paper](https://img.shields.io/badge/Paper-pdf-brightgreen)](_pages/itits.pdf) [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/ASHT-KD)
+
+**Zhenyu Li***, Pengjie Xu, Zhenbiao Dong, Ruirui Zhang, Zhaojun Deng
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TII</div><img src='images/tii.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Towards Robust Visual Place Recognition for Mobile Robots with an End-to-end Dark-enhanced Net](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10726589), *IEEE Transactions on Industrial Informatics*. 
