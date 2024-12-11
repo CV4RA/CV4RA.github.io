@@ -67,7 +67,7 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, join
     <img src="_pages/lzy-1.png" alt="lzy-1's photo" width="120">
   </div>
   <div style="margin-left: 20px;">
-    <p><strong>Zhenyu Li</strong> (PI)  Qilu University of Technology(Shandong Academy of Sciences)</p>
+    <p><strong>Zhenyu Li</strong>  Qilu University of Technology(Shandong Academy of Sciences)</p>
     <p><strong>Ph.D, Tongji University</strong></p>
     <p><strong>Email:</strong> <a href="mailto:lizhenyu@ieee.org">lizhenyu@ieee.org</a></p>
     <p><strong>Research Areas:</strong> Computer Vision, Intelligent Perception, Edge Computing</p>
