@@ -24,7 +24,7 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, join
 <b><font face="楷书">Available Research Topics (for prospective students):</font></b>
 - <font face="华文新魏" color="Hotpink">Cross-domain adaptive visual place recognition for mobile robots</font>
 - <font face="华文新魏" color="Hotpink">Multi-modal Perception-based automatic navigation for intelligent vehicles</font>
-- <font face="华文新魏" color="Hotpink">3D semantic SLAM</font>
+- <font face="华文新魏" color="Hotpink">Multi-Robot-Collaboration SLAM</font>
 - <font face="华文新魏" color="Hotpink">Heterogeneous multi-agent collaboration for visual place recognition</font>
 - <font face="华文新魏" color="Hotpink">Multi-UAVs visual perception with low-illumination environments</font>
 - <font face="华文新魏" color="Hotpink">Image quality analysis (fog, rain or snow removal technology)</font>
