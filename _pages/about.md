@@ -30,8 +30,8 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, join
 - <font face="华文新魏" color="Hotpink">Image quality analysis (fog, rain or snow removal technology)</font>
 
 #  Research Topics
-- Intelligent Scene Perception
-- Robot Visual Place Recognition
+- Robot Localization and Navigation
+- Cross-modal Perception
 - Intelligent Driving 
 - Edge Intelligent Computing
 
