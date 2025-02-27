@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about'></span>
 
-Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, jointed the Department of Robotics Engineering of Qilu University of Technology (Shandong Academy of Sciences) from 2023, and built the computer vision for robot automation laboratory (CV4RA lab.). He has published more than 30 papers in SCI journals and robotics academic conferences. He achieved the Best Paper Finalist Award at the "2019 IEEE ROBIO Conference" (<font face="华文新魏" color="red">Top 1.5%</font>). He was awarded the "Outstanding Graduate of Tongji University" in 2023 (<font face="华文新魏" color="red">Top 2%</font>). He currently serves as a reviewer for several TOP journals (i.e., IEEE-TII, IEEE-T-ITS, IEEE-RAL, ...). His current research covers localization and navigation for intelligent unmanned systems (including robots, autonomous vehicles, UAVs, etc.).
+Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, jointed the Department of Robotics Engineering of Qilu University of Technology (Shandong Academy of Sciences) from Oct. 2023, and built the computer vision for robot automation laboratory (CV4RA lab.). He has published more than 30 papers in SCI journals and robotics academic conferences. He achieved the Best Paper Finalist Award at the "2019 IEEE ROBIO Conference" (<font face="华文新魏" color="red">Top 1.5%</font>). He was awarded the "Outstanding Graduate of Tongji University" in 2023 (<font face="华文新魏" color="red">Top 2%</font>). He currently serves as a reviewer for several TOP journals (i.e., IEEE-TII, IEEE-T-ITS, IEEE-RAL, ...). His current research covers localization and navigation for intelligent unmanned systems (including robots, autonomous vehicles, UAVs, etc.).
 
-📣 <font color=gray face="华文新魏">We welcome outstanding and self-motivating undergraduate students (first-year students and above) to participate in subject competitions, and (sophomore students and above) to jointly carry out research on cutting-edge topics. We also welcome outstanding postgraduate students from both inside and outside the school to collaborate on AI & Robotic research.</font>
+📣 <font color=gray face="华文新魏">We welcome outstanding and self-motivating undergraduate students (second-year, third-year, and graduate students) to participate in subject competitions, and (sophomore students and above) to jointly carry out research on cutting-edge topics. We also welcome outstanding postgraduate students from both inside and outside the school to collaborate on AI & Robotic research.</font>
 
 <b><font face="楷书">Available Research Topics (for prospective students):</font></b>
 - <font face="华文新魏" color="Hotpink">Cross-domain adaptive visual place recognition for mobile robots</font>
@@ -96,7 +96,7 @@ Tianyi Shang(大三本科生), **Zhenyu Li***, Pengjie Xu, Jinwei Qiao
 </div>
 </div>
 
-<font color=gray face="华文新魏">(2024 publicated papers)
+<font color=gray face="华文新魏">(2024 published papers)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TITS</div><img src='images/itits.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
