@@ -55,41 +55,42 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, join
 - *2023.06* Outstanding graduates in 2023 Tongji University
 
 #  Publications 
-<font color=gray face="华文新魏">(2024 submitted papers)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2025</div><img src='images/cvpr.jpg' alt="sym" width="100%"></div></div>
+<font color=gray face="华文新魏">(2025 submitted papers)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025-IROS</div><img src='images/text4vpr.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Bridging Text and Vision: A Multi-View Text-Vision Registration Approach for Cross-Modal Place Recognition](https://arxiv.org/pdf/2502.14195), *2025-IROS*.
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/paper/bridging-text-and-vision-a-multi-view-text)](https://paperswithcode.com/dataset/street360loc) <a href="https://arxiv.org/pdf/2502.14195"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/nuozimiaowu/Text4VPR)
+ <a href="https://arxiv.org/pdf/2502.14195"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/nuozimiaowu/Text4VPR)
 
 Tianyi Shang(大三本科生), **Zhenyu Li***, Pengjie Xu, Jinwei Qiao，Gang Chen, Zihan Ruan, Weijun Hu
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-RAL</div><img src='images/ral.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025-IROS</div><img src='images/ral.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[MambaPlace: Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms](https://arxiv.org/pdf/2408.15740), *IEEE Robotics and Automation Letters*.
+[MambaPlace: Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms](https://arxiv.org/pdf/2408.15740), *2025-IROS*.
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mambaplace-text-to-point-cloud-cross-modal/visual-place-recognition-on-kitti360pose)](https://paperswithcode.com/sota/visual-place-recognition-on-kitti360pose?p=mambaplace-text-to-point-cloud-cross-modal) <a href="https://arxiv.org/pdf/2408.15740"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/MambaPlace)
 
-Tianyi Shang(大三本科生), **Zhenyu Li***
+Tianyi Shang(大三本科生), **Zhenyu Li***, Pengjie Xu, Jinwei Qiao
 </div>
 </div>
+<font color=gray face="华文新魏">(2025 published papers)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TITS</div><img src='images/its.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Multi-Modal Attention Perception for Intelligent Vehicle Navigation using Deep Reinforcement Learning, *IEEE Transactions on Intelligent Transportation Systems*. 
+[Multi-Modal Attention Perception for Intelligent Vehicle Navigation using Deep Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10877697), *IEEE Transactions on Intelligent Transportation Systems*. 
 
-[![Paper](https://img.shields.io/badge/Paper-pdf-brightgreen)](_pages/T_ITITS_MMAP_DRL_Nav (1).pdf) [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/MMAP-DRL-Nav)
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10877697"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/MMAP-DRL-Nav)
 
-**Zhenyu Li***, Tianyi Shang(大三本科生), Pengjie Xu, Wenhao Pei(大三本科生)
+**Zhenyu Li***, Tianyi Shang(大三本科生), Pengjie Xu
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TAI</div><img src='images/tai.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-CWPFormer: Towards High-performance Visual Place Recognition for Robot with Cross-weight Attention Learning, *IEEE Transactions on Artificial Intelligence*. 
+[CWPFormer: Towards High-performance Visual Place Recognition for Robot with Cross-weight Attention Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10872972), *IEEE Transactions on Artificial Intelligence*. 
 
-[![Paper](https://img.shields.io/badge/Paper-pdf-brightgreen)](_pages/TAI_CWPFormer__Towards_High_performance_Visual_Place_Recognition_for_Robot_with_Cross_weight_Attention_Learning (2).pdf) [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/CWPFormer)
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10872972"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a>  [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/CWPFormer)
 
-**Zhenyu Li***, Tianyi Shang(大三本科生), Pengjie Xu, Wenhao Pei(大三本科生)
+**Zhenyu Li***, Pengjie Xu, Tianyi Shang(大三本科生)
 </div>
 </div>
 
