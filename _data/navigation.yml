@@ -13,14 +13,4 @@ main:
     url: "/#publications"
 
   - title: "Honors and Awards"
-    url: "/#honors-and-awards"
-
-  - title: "Teams"
-    url: "/#teams"
-
-  - title: "Experiences"
-    url: "/#experiences"
-
-  - title: "Contact Me"
-    url: "/#contact-me"
-
+    url: "/#honors-and-awards" 

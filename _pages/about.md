@@ -47,7 +47,6 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, join
 - *2024.03*: &nbsp;![alt text](new-2.gif) Our paper "CSPFormer: A Cross-Spatial Pyramid Transformer for Visual Place Recognition" has been accepted by《Neurocomputing》! 
 - *2024.02*: &nbsp;![alt text](new-3.gif) Our paper "TECD_Attention: Texture-enhanced and cross-domain attention modeling for visual place recognition" has been accepted by《Computer Vision and Image Understanding》 ! 
 
-
 #  Honors and Awards
 - *2024.08* 2024年省级大学生创新创业训练计划项目拟立项 (指导老师)
 - *2024.06* 2024年（第十届）全国大学生统计建模大赛山东赛区一等奖 (指导老师)
@@ -55,85 +54,15 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, join
 - *2019.10* Excellent Doctoral Scholarship in 2019 Tongji University
 - *2023.06* Outstanding graduates in 2023 Tongji University
 
-#  Experiences
-- *2023.10 - present*, Teacher, School of Mechanical Engineering, Qilu University of Technology (Shandong Academy of Sciences). 
-- *2018.09 - 2023.06*, Ph.D candidate, Tongji University. 
-
-#  Teams
-<details>
-<summary>展开查看</summary>
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 0 0 120px;">
-    <img src="_pages/lzy-1.png" alt="lzy-1's photo" width="120">
-  </div>
-  <div style="margin-left: 20px;">
-    <p><strong>Zhenyu Li</strong>  Qilu University of Technology(Shandong Academy of Sciences)</p>
-    <p><strong>Ph.D, Tongji University</strong></p>
-    <p><strong>Email:</strong> <a href="mailto:lizhenyu@ieee.org">lizhenyu@ieee.org</a></p>
-    <p><strong>Research Areas:</strong> Computer Vision, Intelligent Perception, Edge Computing</p>
-    <p><strong>Google Scholar:</strong>https://scholar.google.com/citations?hl=en&user=VZi8rpAAAAAJ</p>
-    <p><strong>GitHub:</strong>https://github.com/CV4RA</p>
-  </div>
-</div>
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 0 0 120px;">
-    <img src="_pages/xpj.jpg" alt="xpj's photo" width="120">
-  </div>
-  <div style="margin-left: 20px;">
-    <p><strong>Pengjie Xu</strong></p>
-    <p><strong>Postdoctoral Fellow, Shanghai Jiao Tong University</strong></p>
-    <p><strong>Email:</strong> <a href="mailto:xupengjie194105@sjtu.edu.cn">xupengjie194105@sjtu.edu.cn</a></p>
-    <p><strong>Research Areas:</strong> Machine Learning, Robotics Systems</p>
-  </div>
-</div>
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 0 0 120px;">
-    <img src="_pages/dzj.png" alt="dzj's photo" width="120">
-  </div>
-  <div style="margin-left: 20px;">
-    <p><strong>Zhaojun Deng</strong></p>
-    <p><strong>Postdoctoral Fellow, Tongji University</strong></p>
-    <p><strong>Email:</strong> <a href="mailto:dengzhaojun@tongji.edu.cn">dengzhaojun@tongji.edu.cn</a></p>
-    <p><strong>Research Areas:</strong> Machine Learning, Photoelectric Measuring Technology</p>
-  </div>
-</div>
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 0 0 120px;">
-    <img src="_pages/pwh.jpg" alt="pwh's photo" width="120">
-  </div>
-  <div style="margin-left: 20px;">
-    <p><strong>Wenhao Pei</strong></p>
-    <p><strong>Third year undergraduate, Qilu University of Technology(Shandong Academy of Sciences)</strong></p>
-    <p><strong>Email:</strong> <a href="mailto:202201210016@stu.qlu.edu.cn">202201210016@stu.qlu.edu.cn</a></p>
-    <p><strong>Research Areas:</strong>Visual Localization and Navigation, Intelligent Perception</p>
-    <p><strong>Paper (2):</strong>1 SCI paper → RAL (TOP Journal); 1 SCI paper → ITITS (TOP Journal)</p>
-    <p><strong>Award-winning:</strong>2 Innovation Competition Awards</p>
-  </div>
-</div>
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 0 0 120px;">
-    <img src="_pages/sty.png" alt="sty's photo" width="120">
-  </div>
-  <div style="margin-left: 20px;">
-    <p><strong>Tianyi Shang</strong>(Visiting Student)</p>
-    <p><strong>Third year undergraduate, Fuzhou University</strong></p>
-    <p><strong>Email:</strong> <a href="mailto:832201319@fzu.edu.cn">832201319@fzu.edu.cn</a></p>
-    <p><strong>Research Areas:</strong>Computer Vision, Intelligent Perception</p>
-    <p><strong>Paper (3):</strong>1 SCI paper → RAL (TOP Journal); 1 SCI paper → ITITS (TOP Journal); 1 SCI paper → TAI (TOP Journal)</p>
-  </div>
-</div>
-
-</details>
-
 #  Publications 
 <font color=gray face="华文新魏">(2024 submitted papers)
-<details>
-<summary>展开查看</summary>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2025</div><img src='images/cvpr.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Bridging Text and Vision: *******************
+[Bridging Text and Vision: A Multi-View Text-Vision Registration Approach for Cross-Modal Place Recognition](https://arxiv.org/pdf/2502.14195), *2025-IROS*.
 
-Tianyi Shang(大三本科生), **Zhenyu Li***, Pengjie Xu, Wenhao Pei(大三本科生)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/paper/bridging-text-and-vision-a-multi-view-text)](https://paperswithcode.com/dataset/street360loc) <a href="https://arxiv.org/pdf/2502.14195"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/nuozimiaowu/Text4VPR)
+
+Tianyi Shang(大三本科生), **Zhenyu Li***, Pengjie Xu, Jinwei Qiao，Gang Chen, Zihan Ruan, Weijun Hu
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-RAL</div><img src='images/ral.jpg' alt="sym" width="100%"></div></div>
@@ -142,7 +71,7 @@ Tianyi Shang(大三本科生), **Zhenyu Li***, Pengjie Xu, Wenhao Pei(大三本�
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mambaplace-text-to-point-cloud-cross-modal/visual-place-recognition-on-kitti360pose)](https://paperswithcode.com/sota/visual-place-recognition-on-kitti360pose?p=mambaplace-text-to-point-cloud-cross-modal) <a href="https://arxiv.org/pdf/2408.15740"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/MambaPlace)
 
-Tianyi Shang(大三本科生), **Zhenyu Li***, Wenhao Pei(大三本科生)
+Tianyi Shang(大三本科生), **Zhenyu Li***
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TITS</div><img src='images/its.jpg' alt="sym" width="100%"></div></div>
