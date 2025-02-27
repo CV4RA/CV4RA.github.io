@@ -95,8 +95,7 @@ Tianyi Shang(大三本科生), **Zhenyu Li***, Pengjie Xu, Jinwei Qiao
 </div>
 
 <font color=gray face="华文新魏">(2024 publicated papers)
-<details>
-<summary>展开查看</summary>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TITS</div><img src='images/itits.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Feature-Level Knowledge Distillation for Place Recognition based on Soft-Hard Labels Teaching Paradigm](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10759546), *IEEE Transactions on Intelligent Transportation Systems*. (中科院1区top)
@@ -144,4 +143,3 @@ Pengjie Xu, **Zhenyu Li**, Xun Liu, Tianrui Zhao, Lin Zhang, Yanzheng Zhao
 </div>
 </div>
 
-#  Contact me
