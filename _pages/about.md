@@ -64,7 +64,7 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, join
 
  <a href="https://arxiv.org/pdf/2502.14195"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/nuozimiaowu/Text4VPR)
 
-Tianyi Shang(大三本科生), **Zhenyu Li***, Pengjie Xu, Jinwei Qiao，Gang Chen, Zihan Ruan, Weijun Hu
+Tianyi Shang, **Zhenyu Li***, Pengjie Xu, Jinwei Qiao，Gang Chen, Zihan Ruan, Weijun Hu
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025-IROS</div><img src='images/ral.jpg' alt="sym" width="100%"></div></div>
@@ -73,7 +73,7 @@ Tianyi Shang(大三本科生), **Zhenyu Li***, Pengjie Xu, Jinwei Qiao，Gang Ch
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mambaplace-text-to-point-cloud-cross-modal/visual-place-recognition-on-kitti360pose)](https://paperswithcode.com/sota/visual-place-recognition-on-kitti360pose?p=mambaplace-text-to-point-cloud-cross-modal) <a href="https://arxiv.org/pdf/2408.15740"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/MambaPlace)
 
-Tianyi Shang(大三本科生), **Zhenyu Li***, Pengjie Xu, Jinwei Qiao
+Tianyi Shang, **Zhenyu Li***, Pengjie Xu, Jinwei Qiao
 </div>
 </div>
 <font color=gray face="华文新魏">(2025 published papers)
@@ -83,7 +83,7 @@ Tianyi Shang(大三本科生), **Zhenyu Li***, Pengjie Xu, Jinwei Qiao
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10877697"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/MMAP-DRL-Nav)
 
-**Zhenyu Li***, Tianyi Shang(大三本科生), Pengjie Xu
+**Zhenyu Li***, Tianyi Shang, Pengjie Xu
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TAI</div><img src='images/tai.jpg' alt="sym" width="100%"></div></div>
@@ -92,7 +92,7 @@ Tianyi Shang(大三本科生), **Zhenyu Li***, Pengjie Xu, Jinwei Qiao
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10872972"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a>  [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/CWPFormer)
 
-**Zhenyu Li***, Pengjie Xu, Tianyi Shang(大三本科生)
+**Zhenyu Li***, Pengjie Xu, Tianyi Shang
 </div>
 </div>
 
@@ -113,7 +113,7 @@ Tianyi Shang(大三本科生), **Zhenyu Li***, Pengjie Xu, Jinwei Qiao
 
 [![Paper](https://img.shields.io/badge/Paper-pdf-brightgreen)](_pages/FINALVERSION.pdf) [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/Dark-enhanced-VPR-Net)
 
-**Zhenyu Li***, Tianyi Shang (大三本科生), Pengjie Xu, Zhaojun Deng, and Ruirui Zhang
+**Zhenyu Li***, Tianyi Shang, Pengjie Xu, Zhaojun Deng, and Ruirui Zhang
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVIU</div><img src='images/cviu.jpg' alt="sym" width="100%"></div></div>
