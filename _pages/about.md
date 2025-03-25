@@ -58,6 +58,15 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, join
 
 #  Publications 
 <font color=gray face="华文新魏">(2025 submitted papers)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TGRS</div><img src='images/tgrs.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Text-Driven Cross-Modal Place Recognition Method for Remote Sensing Localization ](https://arxiv.org/pdf/2503.18035), *IEEE-TGRS*.
+
+ <a href="https://arxiv.org/pdf/2503.18035"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/des4pos)
+
+Tianyi Shang, **Zhenyu Li***, Pengjie Xu, Zhaojun Deng, Ruirui Zhang
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025-IROS</div><img src='images/text4vpr.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Bridging Text and Vision: A Multi-View Text-Vision Registration Approach for Cross-Modal Place Recognition](https://arxiv.org/pdf/2502.14195), *2025-IROS*.
