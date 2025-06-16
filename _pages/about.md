@@ -38,6 +38,8 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, join
 📤<u><font size=2 color=Hotpink>有志于在CV4RA从事学术研究和学科竞赛的优秀同学(<b>特别欢迎打算出国深造和考研学生加入</b>)，欢迎联系我洽谈！ Email(嗖~！🚀可达)：lizhenyu@ieee.org.</font></u>
 
 #  News
+- *2025.06*: &nbsp;![alt text](new-3.gif) Our paper "MambaPlace: Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms" has been accepted by《IROS-2025》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
+- *2025.06*: &nbsp;![alt text](new-3.gif) Our paper "Bridging Text and Vision: A Multi-View Text-Vision Registration Approach for Cross-Modal Place Recognition" has been accepted by《IROS-2025》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
 - *2025.01*: &nbsp;![alt text](new-3.gif) Our paper "CWPFormer: Towards High-performance Visual Place Recognition for Robot with Cross-weight Attention Learning" has been accepted by《IEEE Transactions on Artificial Intelligence》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
 - *2025.01*: &nbsp;![alt text](new-3.gif) Our paper "Multi-Modal Attention Perception for Intelligent Vehicle Navigation using Deep Reinforcement Learning" has been accepted by《IEEE Transactions on Intelligent Transportation Systems》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
 - *2024.11*: &nbsp;![alt text](new-3.gif) Our paper "Feature-Level Knowledge Distillation for Place Recognition based on Soft-Hard Labels Teaching Paradigm" has been accepted by《IEEE Transactions on Intelligent Transportation Systems》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
