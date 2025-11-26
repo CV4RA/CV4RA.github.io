@@ -38,6 +38,7 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, join
 📤<u><font size=2 color=Hotpink>有志于在CV4RA从事学术研究和学科竞赛的优秀同学(<b>特别欢迎打算出国深造和考研学生加入</b>)，欢迎联系我洽谈！ Email(嗖~！🚀可达)：lizhenyu@ieee.org.</font></u>
 
 #  News
+- *2025.11*: &nbsp;![alt text](new-3.gif) Our paper "FourierPlace: A Vision-Language Localization Framework Based on Frequency Domain Representations" has been accepted by《IEEE Robotics and Automation Letters》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
 - *2025.06*: &nbsp;![alt text](new-3.gif) Our paper "MambaPlace: Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms" has been accepted by《IROS-2025》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
 - *2025.06*: &nbsp;![alt text](new-3.gif) Our paper "Bridging Text and Vision: A Multi-View Text-Vision Registration Approach for Cross-Modal Place Recognition" has been accepted by《IROS-2025》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
 - *2025.01*: &nbsp;![alt text](new-3.gif) Our paper "CWPFormer: Towards High-performance Visual Place Recognition for Robot with Cross-weight Attention Learning" has been accepted by《IEEE Transactions on Artificial Intelligence》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
@@ -60,6 +61,15 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, join
 
 #  Publications 
 <font color=gray face="华文新魏">(2025 submitted papers)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-RAL</div><img src='images/RAL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[FourierPlace: A Vision-Language Localization Framework Based on Frequency Domain Representations](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11260932), *IEEE-RAL*.
+
+ <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11260932"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](ttps://github.com/nuozimiaowu/FourierPlace)
+
+Tianyi Shang, **Zhenyu Li***, Shuaishuai Lu, Pengjie Xu
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI-Review</div><img src='images/acm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Place Recognition: A Comprehensive Review, Current Challenges and Future Directions](https://arxiv.org/abs/2505.14068), *AI-Review*.
