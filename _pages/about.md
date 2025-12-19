@@ -61,6 +61,8 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, join
  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11260932"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://github.com/CV4RA/AQPT-VPR)]([ttps://github.com/nuozimiaowu/FourierPlace](https://github.com/CV4RA/AQPT-VPR))
 
 **Zhenyu Li***, Pengjie Xu
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-RAL</div><img src='images/RAL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [FourierPlace: A Vision-Language Localization Framework Based on Frequency Domain Representations](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11260932), *IEEE-RAL*.
