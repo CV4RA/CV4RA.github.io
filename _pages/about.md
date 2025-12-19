@@ -53,7 +53,7 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, join
 - *2023.06* Outstanding graduates in 2023 Tongji University
 
 #  Publications 
-<font color=gray face="华文新魏">(2025 submitted papers)
+<font color=gray face="华文新魏">(2025 published papers)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/ESWA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Quadruplet-attention transformer for scale-invariant robot placerecognition](https://www.sciencedirect.com/science/article/pii/S0957417425043714), *ESWA*.
@@ -79,34 +79,6 @@ Tianyi Shang, **Zhenyu Li***, Shuaishuai Lu, Pengjie Xu
 **Zhenyu Li***, Tianyi Shang, Pengjie Xu, Zhaojun Deng
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TITS</div><img src='images/tgrs.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Text-Driven Cross-Modal Place Recognition Method for Remote Sensing Localization ](https://arxiv.org/pdf/2503.18035), *IEEE-TITS*.
-
- <a href="https://arxiv.org/pdf/2503.18035"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/des4pos)
-
-Tianyi Shang, **Zhenyu Li***, Pengjie Xu, Zhaojun Deng, Ruirui Zhang
-</div>
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025-IROS</div><img src='images/text4vpr.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Bridging Text and Vision: A Multi-View Text-Vision Registration Approach for Cross-Modal Place Recognition](https://arxiv.org/pdf/2502.14195), *2025-IROS*.
-
- <a href="https://arxiv.org/pdf/2502.14195"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/nuozimiaowu/Text4VPR)
-
-Tianyi Shang, **Zhenyu Li***, Pengjie Xu, Jinwei Qiao，Gang Chen, Zihan Ruan, Weijun Hu
-</div>
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025-IROS</div><img src='images/ral.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[MambaPlace: Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms](https://arxiv.org/pdf/2408.15740), *2025-IROS*.
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mambaplace-text-to-point-cloud-cross-modal/visual-place-recognition-on-kitti360pose)](https://paperswithcode.com/sota/visual-place-recognition-on-kitti360pose?p=mambaplace-text-to-point-cloud-cross-modal) <a href="https://arxiv.org/pdf/2408.15740"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/MambaPlace)
-
-Tianyi Shang, **Zhenyu Li***, Pengjie Xu, Jinwei Qiao
-</div>
-</div>
-<font color=gray face="华文新魏">(2025 published papers)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TITS</div><img src='images/its.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Multi-Modal Attention Perception for Intelligent Vehicle Navigation using Deep Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10877697), *IEEE Transactions on Intelligent Transportation Systems*. 
