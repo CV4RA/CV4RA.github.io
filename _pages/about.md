@@ -58,7 +58,7 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, join
 <div class='paper-box-text' markdown="1">
 [Quadruplet-attention transformer for scale-invariant robot placerecognition](https://www.sciencedirect.com/science/article/pii/S0957417425043714), *ESWA*.
 
- <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11260932"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://github.com/CV4RA/AQPT-VPR)]([https://github.com/CV4RA/AQPT-VPR](https://github.com/CV4RA/AQPT-VPR)
+ <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11260932"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> 
 
 **Zhenyu Li***, Pengjie Xu
 </div>
