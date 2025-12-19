@@ -38,19 +38,12 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, join
 📤<u><font size=2 color=Hotpink>有志于在CV4RA从事学术研究和学科竞赛的优秀同学(<b>特别欢迎打算出国深造和考研学生加入</b>)，欢迎联系我洽谈！ Email(嗖~！🚀可达)：lizhenyu@ieee.org.</font></u>
 
 #  News
+- *2025.12*: &nbsp;![alt text](new-3.gif) Our paper "Quadruplet-attention transformer for scale-invariant robot placerecognition" has been accepted by《Expert Systems With Applications》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
 - *2025.11*: &nbsp;![alt text](new-3.gif) Our paper "FourierPlace: A Vision-Language Localization Framework Based on Frequency Domain Representations" has been accepted by《IEEE Robotics and Automation Letters》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
 - *2025.06*: &nbsp;![alt text](new-3.gif) Our paper "MambaPlace: Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms" has been accepted by《IROS-2025》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
 - *2025.06*: &nbsp;![alt text](new-3.gif) Our paper "Bridging Text and Vision: A Multi-View Text-Vision Registration Approach for Cross-Modal Place Recognition" has been accepted by《IROS-2025》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
 - *2025.01*: &nbsp;![alt text](new-3.gif) Our paper "CWPFormer: Towards High-performance Visual Place Recognition for Robot with Cross-weight Attention Learning" has been accepted by《IEEE Transactions on Artificial Intelligence》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
 - *2025.01*: &nbsp;![alt text](new-3.gif) Our paper "Multi-Modal Attention Perception for Intelligent Vehicle Navigation using Deep Reinforcement Learning" has been accepted by《IEEE Transactions on Intelligent Transportation Systems》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
-- *2024.11*: &nbsp;![alt text](new-3.gif) Our paper "Feature-Level Knowledge Distillation for Place Recognition based on Soft-Hard Labels Teaching Paradigm" has been accepted by《IEEE Transactions on Intelligent Transportation Systems》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
-- *2024.10*: &nbsp;![alt text](new-2.gif) Our paper "Towards to Robust Visual Place Recognition for Mobile Robots with an End-to-end Dark-enhanced Net" has been accepted by《IEEE Transactions on Industrial Informatics》! <font color=Fuchsia>well done👏👏👏!!!</font> 
-- *2024.08*: &nbsp;![alt text](new-3.gif) Our work "Intelligent Walker - Autonomous Navigation Mobile Robot Based on Intelligent Perception" has been identified as a proposed project for the "2024 Provincial College Students' Innovation and Entrepreneurship Training Program" ! [(链接)](http://edu.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=c1e5787543f146ea8e779ea0ae86a679.pdf) (<font color=DeepSkyBlue>no. 32</font>)
-- *2024.07*: &nbsp;![alt text](new-3.gif) Our paper "Pyramid Transformer-based Triplet Hashing for Robust Visual Place Recognition" has been accepted after minor revision by《Computer Vision and Image Understanding》 ! 
-- *2024.06*: &nbsp;![alt text](new-2.gif) Our work "Time Series Prediction Model Based on Transformer Exhaust Emissions" won the provincial first prize in the "2024 National College Student Statistical Modeling Competition" ! [(链接)](http://cmswebsite.ai-learning.net/u/cms/tjjmds/202407/11160343pa3f.pdf) (<font color=DeepSkyBlue>no. 1302</font>)
-- *2024.06*: &nbsp;![alt text](new-2.gif) Our paper "Reinforcement learning-based distributed impedance control of robots for compliant operation in tight interaction tasks" has been accepted by《Engineering Applications of Artificial Intelligence》! <font color=Fuchsia>well done👏👏👏!!!</font> 
-- *2024.03*: &nbsp;![alt text](new-2.gif) Our paper "CSPFormer: A Cross-Spatial Pyramid Transformer for Visual Place Recognition" has been accepted by《Neurocomputing》! 
-- *2024.02*: &nbsp;![alt text](new-3.gif) Our paper "TECD_Attention: Texture-enhanced and cross-domain attention modeling for visual place recognition" has been accepted by《Computer Vision and Image Understanding》 ! 
 
 #  Honors and Awards
 - *2024.08* 2024年省级大学生创新创业训练计划项目拟立项 (指导老师)
@@ -61,6 +54,13 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, join
 
 #  Publications 
 <font color=gray face="华文新魏">(2025 submitted papers)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/ESWA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Quadruplet-attention transformer for scale-invariant robot placerecognition](https://www.sciencedirect.com/science/article/pii/S0957417425043714), *ESWA*.
+
+ <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11260932"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://github.com/CV4RA/AQPT-VPR)]([ttps://github.com/nuozimiaowu/FourierPlace](https://github.com/CV4RA/AQPT-VPR))
+
+**Zhenyu Li***, Pengjie Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-RAL</div><img src='images/RAL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [FourierPlace: A Vision-Language Localization Framework Based on Frequency Domain Representations](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11260932), *IEEE-RAL*.
