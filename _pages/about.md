@@ -43,7 +43,16 @@ Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, jointed the Depa
 
 #  Publications 
 <font color=gray face="华文新魏">(2026 published papers)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TII</div><img src='images/TIIrain.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/CVPR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[A2GC: Asymmetric Aggregation with Geometric Constraints for Locally Aggregated Descriptors](https://arxiv.org/pdf/2511.14109), *CVPR 2026*.
+
+ <a href="https://arxiv.org/pdf/2511.14109"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/A2GC)
+
+**Zhenyu Li***, Tianyi Shang
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/TIIrain.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Seeing Through the Rain: Multistage Attention With Depth-Guided Restoration for Robust Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11457675), *IEEE-TII*.
 
@@ -52,7 +61,6 @@ Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, jointed the Depa
 **Zhenyu Li***, Tianyi Shang, Jinwei Qiao, Pengbo Liu, Zhaojun Deng
 </div>
 </div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TII</div><img src='images/TIIrain.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Seeing Through the Rain: Multistage Attention With Depth-Guided Restoration for Robust Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11457675), *IEEE-TII*.
