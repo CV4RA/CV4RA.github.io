@@ -52,7 +52,7 @@ Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, jointed the Depa
 **Zhenyu Li***, Tianyi Shang
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/TIIrain.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TII</div><img src='images/TIIrain.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Seeing Through the Rain: Multistage Attention With Depth-Guided Restoration for Robust Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11457675), *IEEE-TII*.
 
