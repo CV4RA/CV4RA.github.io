@@ -67,7 +67,7 @@ Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, jointed the Depa
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11456443"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/nuozimiaowu/FourierPlace)
 
-**Zhenyu Li***, Tianyi Shang, Jinwei Qiao, Pengbo Liu, Zhaojun Deng
+Tianyi Shang, **Zhenyu Li***, Pengjie Xu, Zhaojun Deng
 </div>
 </div>
 
