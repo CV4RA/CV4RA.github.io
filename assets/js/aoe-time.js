@@ -12,7 +12,7 @@ function updateAoETime() {
   const now = new Date();
   const utc8Time = new Date(now.getTime() + (8 - now.getTimezoneOffset() / 60) * 3600000);
   
-  // 格式化输出：YYYY年MM月DD日 HH:mm:ss
+  // 格式化输出：YYYY-MM-DD HH:mm:ss
   const year = utc8Time.getFullYear();
   const month = String(utc8Time.getMonth() + 1).padStart(2, '0');
   const day = String(utc8Time.getDate()).padStart(2, '0');
@@ -20,7 +20,7 @@ function updateAoETime() {
   const minutes = String(utc8Time.getMinutes()).padStart(2, '0');
   const seconds = String(utc8Time.getSeconds()).padStart(2, '0');
   
-  const timeString = `${year}年${month}月${day}日 ${hours}:${minutes}:${seconds}`;
+  const timeString = `${year}-${month}-${day} ${hours}:${minutes}:${seconds}`;
   
   // 在页面中更新时间显示元素
   const timeElement = document.getElementById('aoe-world-time');
