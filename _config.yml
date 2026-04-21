@@ -12,7 +12,7 @@ repository               : "CV4RA"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://scholar.google.com/citations?hl=zh-CN&user=VZi8rpAAAAAJ
+google_analytics_id      : "YOUR_GA_TRACKING_ID"  # Replace with your actual Google Analytics Tracking ID (e.g., G-XXXXXXXXXX)
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://scholar.google.com/citations?hl=zh-CN&user=VZi8rpAAAAAJ
