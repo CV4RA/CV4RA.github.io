@@ -37,14 +37,41 @@ Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, jointed the Depa
 
 
 #  News
-- *2025.12*: &nbsp;![alt text](new-3.gif) Our paper "Quadruplet-attention transformer for scale-invariant robot placerecognition" has been accepted by《Expert Systems With Applications》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
-- *2025.11*: &nbsp;![alt text](new-3.gif) Our paper "FourierPlace: A Vision-Language Localization Framework Based on Frequency Domain Representations" has been accepted by《IEEE Robotics and Automation Letters》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
-- *2025.06*: &nbsp;![alt text](new-3.gif) Our paper "MambaPlace: Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms" has been accepted by《IROS-2025》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
-- *2025.06*: &nbsp;![alt text](new-3.gif) Our paper "Bridging Text and Vision: A Multi-View Text-Vision Registration Approach for Cross-Modal Place Recognition" has been accepted by《IROS-2025》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
-- *2025.01*: &nbsp;![alt text](new-3.gif) Our paper "CWPFormer: Towards High-performance Visual Place Recognition for Robot with Cross-weight Attention Learning" has been accepted by《IEEE Transactions on Artificial Intelligence》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
-- *2025.01*: &nbsp;![alt text](new-3.gif) Our paper "Multi-Modal Attention Perception for Intelligent Vehicle Navigation using Deep Reinforcement Learning" has been accepted by《IEEE Transactions on Intelligent Transportation Systems》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
+- *2026.3*: &nbsp;![alt text](new-3.gif) Our paper "A2GC: Asymmetric Aggregation with Geometric Constraints for Locally Aggregated Descriptors" has been accepted by《The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
+- *2026.2*: &nbsp;![alt text](new-3.gif) Our paper "Vehicle-SceneInteraction: A Text-Driven 3-D Lidar Place Recognition Method for Autonomous Driving" has been accepted by《IEEE Transactions on Intelligent Transportation Systems》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
+- *2026.1*: &nbsp;![alt text](new-3.gif) Our paper "Seeing Through the Rain: Multi-Stage Attention with Depth-Guided Restoration for Robust Localization" has been accepted by《IEEE Transactions on Industrial Informatics》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
 
 #  Publications 
+<font color=gray face="华文新魏">(2026 published papers)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TII</div><img src='images/TIIrain.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Seeing Through the Rain: Multistage Attention With Depth-Guided Restoration for Robust Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11457675), *IEEE-TII*.
+
+ <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11457675"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/Diffu-VPR)
+
+**Zhenyu Li***, Tianyi Shang, Jinwei Qiao, Pengbo Liu, Zhaojun Deng
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TII</div><img src='images/TIIrain.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Seeing Through the Rain: Multistage Attention With Depth-Guided Restoration for Robust Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11457675), *IEEE-TII*.
+
+ <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11457675"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/Diffu-VPR)
+
+Tianyi Shang, **Zhenyu Li***, Pengjie Xu, Zhaojun Deng
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TITS</div><img src='images/TITSVS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Vehicle-Scene Interaction: A Text-Driven 3-D Lidar Place Recognition Method for Autonomous Driving](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11456443), *IEEE-TITS*.
+
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11456443"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/nuozimiaowu/FourierPlace)
+
+**Zhenyu Li***, Tianyi Shang, Jinwei Qiao, Pengbo Liu, Zhaojun Deng
+</div>
+</div>
+
 <font color=gray face="华文新魏">(2025 published papers)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/ESWA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -92,52 +119,5 @@ Tianyi Shang, **Zhenyu Li***, Shuaishuai Lu, Pengjie Xu
 </div>
 </div>
 
-<font color=gray face="华文新魏">(2024 published papers)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TITS</div><img src='images/itits.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Feature-Level Knowledge Distillation for Place Recognition based on Soft-Hard Labels Teaching Paradigm](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10759546), *IEEE Transactions on Intelligent Transportation Systems*. (中科院1区top)
-
-[![Paper](https://img.shields.io/badge/Paper-pdf-brightgreen)](_pages/itits.pdf) [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/ASHT-KD)
-
-**Zhenyu Li***, Pengjie Xu, Zhenbiao Dong, Ruirui Zhang, Zhaojun Deng
-</div>
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TII</div><img src='images/tii.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Towards Robust Visual Place Recognition for Mobile Robots with an End-to-end Dark-enhanced Net](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10726589), *IEEE Transactions on Industrial Informatics*. (中科院1区top)
-
-[![Paper](https://img.shields.io/badge/Paper-pdf-brightgreen)](_pages/FINALVERSION.pdf) [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/Dark-enhanced-VPR-Net)
-
-**Zhenyu Li***, Tianyi Shang, Pengjie Xu, Zhaojun Deng, and Ruirui Zhang
-</div>
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVIU</div><img src='images/cviu.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Pyramid transformer-based triplet hashing for robust visual place recognition](https://www.sciencedirect.com/science/article/pii/S1077314224002480), *Computer Vision and Image Understanding*. (CCF-B)
-
-**Zhenyu Li*** and Pengjie Xu
-</div>
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='images/eaai.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Reinforcement learning-based distributed impedance control of robots forcompliant operation in tight interaction tasks](https://authors.elsevier.com/c/1jPYU3OWJ98fVS), *Engineering Applications of Artificial Intelligence*. (中科院1区top)
-
-Pengjie Xu, **Zhenyu Li**, Xun Liu, Tianrui Zhao, Lin Zhang, Yanzheng Zhao
-</div>
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/CSPFormer.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[CSPFormer: A Cross-Spatial Pyramid Transformer for Visual Place Recognition](https://www.sciencedirect.com/science/article/pii/S0925231224002431), *Neurocomputing*. (中科院二区top, CCF-C)
-
-**Zhenyu Li***, Pengjie Xu
-</div>
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVIU</div><img src='images/TECD.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[TECD_Attention: Texture-enhanced and cross-domain attention modeling for visual place recognition](https://www.sciencedirect.com/science/article/pii/S1077314224000109), *Computer Vision and Image Understanding*. (CCF-B)
-
-**Zhenyu Li***, Zhenbiao Dong
-</div>
-</div>
 
