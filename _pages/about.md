@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about'></span>
 
-Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, jointed the Department of Robotics Engineering of Qilu University of Technology (Shandong Academy of Sciences) from Oct. 2023, and built the computer vision for robot automation laboratory (CV4RA lab.). He has published more than 30 papers in SCI journals and robotics academic conferences. He achieved the Best Paper Finalist Award at the "2019 IEEE ROBIO Conference" (<font face="华文新魏" color="red">Top 1.5%</font>). He was awarded the "Outstanding Graduate of Tongji University" in 2023 (<font face="华文新魏" color="red">Top 2%</font>). He currently serves as a reviewer for several TOP journals (i.e., IEEE-TII, IEEE-T-ITS, IEEE-RAL, ...). His current research covers localization and navigation for intelligent unmanned systems (including robots, autonomous vehicles, UAVs, etc.).
+Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, jointed the Department of Robotics Engineering of Qilu University of Technology (Shandong Academy of Sciences) from Oct. 2023, and built the computer vision for robot automation laboratory (CV4RA lab.). He has published more than 30 papers in SCI journals and robotics academic conferences, including CVPR, IROS. He achieved the Best Paper Finalist Award at the "2019 IEEE ROBIO Conference" (<font face="华文新魏" color="red">Top 1.5%</font>). He was awarded the "Outstanding Graduate of Tongji University" in 2023 (<font face="华文新魏" color="red">Top 2%</font>). He currently serves as a reviewer for several TOP journals (i.e., IEEE-TII, IEEE-T-ITS, IEEE-RAL,...). His current research covers localization and navigation for intelligent unmanned systems (including robots, autonomous vehicles, UAVs, etc.).
 
 📣 <font color=gray face="华文新魏">We welcome outstanding and self-motivating undergraduate students (second-year, third-year, and graduate students) to participate in subject competitions, and (sophomore students and above) to jointly carry out research on cutting-edge topics. We also welcome outstanding postgraduate students from both inside and outside the school to collaborate on AI & Robotic research.</font>
 
@@ -30,12 +30,11 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, join
 - <font face="华文新魏" color="Hotpink">Image quality analysis (fog, rain or snow removal technology)</font>
 
 #  Research Topics
-- Robot Localization and Navigation
+- Visual Place Recognition for Unmanned Systems (mobile robot/UAV/autonomous driving vehicle)
 - Cross-modal Perception
 - Intelligent Driving 
-- Edge Intelligent Computing
+- Embodied Intelligence
 
-📤<u><font size=2 color=Hotpink>有志于在CV4RA从事学术研究和学科竞赛的优秀同学(<b>特别欢迎打算出国深造和考研学生加入</b>)，欢迎联系我洽谈！ Email(嗖~！🚀可达)：lizhenyu@ieee.org.</font></u>
 
 #  News
 - *2025.12*: &nbsp;![alt text](new-3.gif) Our paper "Quadruplet-attention transformer for scale-invariant robot placerecognition" has been accepted by《Expert Systems With Applications》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
@@ -44,13 +43,6 @@ Li Zhenyu (李振雨), Ph.D in Mechanical Engineering of Tongji University, join
 - *2025.06*: &nbsp;![alt text](new-3.gif) Our paper "Bridging Text and Vision: A Multi-View Text-Vision Registration Approach for Cross-Modal Place Recognition" has been accepted by《IROS-2025》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
 - *2025.01*: &nbsp;![alt text](new-3.gif) Our paper "CWPFormer: Towards High-performance Visual Place Recognition for Robot with Cross-weight Attention Learning" has been accepted by《IEEE Transactions on Artificial Intelligence》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
 - *2025.01*: &nbsp;![alt text](new-3.gif) Our paper "Multi-Modal Attention Perception for Intelligent Vehicle Navigation using Deep Reinforcement Learning" has been accepted by《IEEE Transactions on Intelligent Transportation Systems》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
-
-#  Honors and Awards
-- *2024.08* 2024年省级大学生创新创业训练计划项目拟立项 (指导老师)
-- *2024.06* 2024年（第十届）全国大学生统计建模大赛山东赛区一等奖 (指导老师)
-- *2019.12* Best Paper Finalist in 2019 IEEE-ROBIO conference 
-- *2019.10* Excellent Doctoral Scholarship in 2019 Tongji University
-- *2023.06* Outstanding graduates in 2023 Tongji University
 
 #  Publications 
 <font color=gray face="华文新魏">(2025 published papers)
