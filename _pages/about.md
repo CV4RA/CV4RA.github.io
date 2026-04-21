@@ -21,14 +21,6 @@ Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, jointed the Depa
 
 📣 <font color=gray face="华文新魏">We welcome outstanding and self-motivating undergraduate students (second-year, third-year, and graduate students) to participate in subject competitions, and (sophomore students and above) to jointly carry out research on cutting-edge topics. We also welcome outstanding postgraduate students from both inside and outside the school to collaborate on AI & Robotic research.</font>
 
-<b><font face="楷书">Available Research Topics (for prospective students):</font></b>
-- <font face="华文新魏" color="Hotpink">Cross-domain adaptive visual place recognition for mobile robots</font>
-- <font face="华文新魏" color="Hotpink">Multi-modal Perception-based automatic navigation for intelligent vehicles</font>
-- <font face="华文新魏" color="Hotpink">Multi-Robot-Collaboration SLAM</font>
-- <font face="华文新魏" color="Hotpink">Heterogeneous multi-agent collaboration for visual place recognition</font>
-- <font face="华文新魏" color="Hotpink">Multi-UAVs visual perception with low-illumination environments</font>
-- <font face="华文新魏" color="Hotpink">Image quality analysis (fog, rain or snow removal technology)</font>
-
 #  Research Topics
 - Visual Place Recognition for Unmanned Systems (mobile robot/UAV/autonomous driving vehicle)
 - Cross-modal Perception
@@ -72,6 +64,16 @@ Tianyi Shang, **Zhenyu Li***, Pengjie Xu, Zhaojun Deng
 </div>
 
 <font color=gray face="华文新魏">(2025 published papers)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TITS</div><img src='images/TITSVS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Vehicle-Scene Interaction: A Text-Driven 3-D Lidar Place Recognition Method for Autonomous Driving](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11456443), *IEEE-TITS*.
+
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11456443"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/nuozimiaowu/FourierPlace)
+
+Tianyi Shang, **Zhenyu Li***, Pengjie Xu, Zhaojun Deng
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/ESWA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Quadruplet-attention transformer for scale-invariant robot placerecognition](https://www.sciencedirect.com/science/article/pii/S0957417425043714), *ESWA*.
