@@ -61,15 +61,6 @@ Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, jointed the Depa
 **Zhenyu Li***, Tianyi Shang, Jinwei Qiao, Pengbo Liu, Zhaojun Deng
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TII</div><img src='images/TIIrain.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Seeing Through the Rain: Multistage Attention With Depth-Guided Restoration for Robust Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11457675), *IEEE-TII*.
-
- <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11457675"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/Diffu-VPR)
-
-Tianyi Shang, **Zhenyu Li***, Pengjie Xu, Zhaojun Deng
-</div>
-</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TITS</div><img src='images/TITSVS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Vehicle-Scene Interaction: A Text-Driven 3-D Lidar Place Recognition Method for Autonomous Driving](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11456443), *IEEE-TITS*.
