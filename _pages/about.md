@@ -64,16 +64,24 @@ Tianyi Shang, **Zhenyu Li***, Pengjie Xu, Zhaojun Deng
 </div>
 
 <font color=gray face="华文新魏">(2025 published papers)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TITS</div><img src='images/TITSVS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/mamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Vehicle-Scene Interaction: A Text-Driven 3-D Lidar Place Recognition Method for Autonomous Driving](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11456443), *IEEE-TITS*.
+[MambaPlace: Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11246747), *IROS 2025*.
 
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11456443"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/nuozimiaowu/FourierPlace)
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11246747"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/nuozimiaowu/MambaPlace)
 
-Tianyi Shang, **Zhenyu Li***, Pengjie Xu, Zhaojun Deng
+Tianyi Shang, **Zhenyu Li***, Pengjie Xu, Jinwei Qiao
 </div>
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/Text4VPR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Bridging Text and Vision: A Multi-View Text-Vision Registration Approach for Cross-Modal Place Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11246871), *IROS 2025*.
 
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11246871"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/nuozimiaowu/Text4VPR)
+
+Tianyi Shang, **Zhenyu Li***, Pengjie Xu, Jinwei Qiao, Gang Chen, Zihan Ruan, Weijun Hu
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/ESWA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Quadruplet-attention transformer for scale-invariant robot placerecognition](https://www.sciencedirect.com/science/article/pii/S0957417425043714), *ESWA*.
