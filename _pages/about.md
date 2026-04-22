@@ -138,7 +138,7 @@ Tianyi Shang, **Zhenyu Li***, Shuaishuai Lu, Pengjie Xu
 **Zhenyu Li***, Pengjie Xu, henbiao Dong, Ruirui Zhang, Zhaojun Deng
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TII</div><img src='images/feature.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TII</div><img src='images/toward.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Toward robust visual place recognition for mobile robots with an end-to-end dark-enhanced net](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10759546), *IEEE Transactions on Industrial Informatics*. 
 
