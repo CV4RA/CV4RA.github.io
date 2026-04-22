@@ -34,7 +34,7 @@ Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, jointed the Depa
 - *2026.1*: &nbsp;![alt text](new-3.gif) Our paper "Seeing Through the Rain: Multi-Stage Attention with Depth-Guided Restoration for Robust Localization" has been accepted by《IEEE Transactions on Industrial Informatics》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
 
 #  Publications 
-<font color=gray face="华文新魏">(2026 published papers)
+<font color=red face="华文新魏">(2026 published papers)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/CVPR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [A2GC: Asymmetric Aggregation with Geometric Constraints for Locally Aggregated Descriptors](https://arxiv.org/pdf/2511.14109), *CVPR 2026*.
@@ -63,7 +63,7 @@ Tianyi Shang, **Zhenyu Li***, Pengjie Xu, Zhaojun Deng
 </div>
 </div>
 
-<font color=gray face="华文新魏">(2025 published papers)
+<font color=red face="华文新魏">(2025 published papers)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/mamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [MambaPlace: Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11246747), *IROS 2025*.
