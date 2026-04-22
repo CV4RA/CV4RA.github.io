@@ -35,6 +35,7 @@ Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, jointed the Depa
 
 #  Publications 
 <font color=red face="华文新魏">(2026 published papers)
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/CVPR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [A2GC: Asymmetric Aggregation with Geometric Constraints for Locally Aggregated Descriptors](https://arxiv.org/pdf/2511.14109), *CVPR 2026*.
@@ -64,6 +65,7 @@ Tianyi Shang, **Zhenyu Li***, Pengjie Xu, Zhaojun Deng
 </div>
 
 <font color=red face="华文新魏">(2025 published papers)
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/mamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [MambaPlace: Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11246747), *IROS 2025*.
