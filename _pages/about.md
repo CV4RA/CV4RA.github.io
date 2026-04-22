@@ -38,7 +38,7 @@ redirect_from:
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/CVPR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[A2GC: Asymmetric Aggregation with Geometric Constraints for Locally Aggregated Descriptors](https://arxiv.org/pdf/2511.14109), *CVPR 2026*.
+[A2GC: Asymmetric Aggregation with Geometric Constraints for Locally Aggregated Descriptors](https://arxiv.org/pdf/2511.14109), *The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)*.
 
  <a href="https://arxiv.org/pdf/2511.14109"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/A2GC)
 
@@ -47,7 +47,7 @@ redirect_from:
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TII</div><img src='images/TIIrain.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Seeing Through the Rain: Multistage Attention With Depth-Guided Restoration for Robust Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11457675), *IEEE-TII*.
+[Seeing Through the Rain: Multistage Attention With Depth-Guided Restoration for Robust Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11457675), *IEEE Transactions on Industrial Informatics*.
 
  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11457675"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/Diffu-VPR)
 
@@ -56,7 +56,7 @@ redirect_from:
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TITS</div><img src='images/TITSVS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Vehicle-Scene Interaction: A Text-Driven 3-D Lidar Place Recognition Method for Autonomous Driving](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11456443), *IEEE-TITS*.
+[Vehicle-Scene Interaction: A Text-Driven 3-D Lidar Place Recognition Method for Autonomous Driving](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11456443), *IEEE Transactions on Intelligent Transportation Systems*.
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11456443"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/nuozimiaowu/FourierPlace)
 
@@ -138,5 +138,13 @@ Tianyi Shang, **Zhenyu Li***, Shuaishuai Lu, Pengjie Xu
 **Zhenyu Li***, Pengjie Xu, henbiao Dong, Ruirui Zhang, Zhaojun Deng
 </div>
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TII</div><img src='images/feature.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Toward robust visual place recognition for mobile robots with an end-to-end dark-enhanced net](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10759546), *IEEE Transactions on Industrial Informatics*. 
 
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10759546"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a>  
+
+**Zhenyu Li***, Pengjie Xu, henbiao Dong, Ruirui Zhang, Zhaojun Deng 
+</div>
+</div>
 
