@@ -68,7 +68,7 @@ Tianyi Shang, **Zhenyu Li***, Pengjie Xu, Zhaojun Deng
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/mamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[MambaPlace: Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11246747), *IROS 2025*.
+[MambaPlace: Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11246747), *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*.
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11246747"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/nuozimiaowu/MambaPlace)
 
@@ -77,7 +77,7 @@ Tianyi Shang, **Zhenyu Li***, Pengjie Xu, Jinwei Qiao
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/Text4VPR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Bridging Text and Vision: A Multi-View Text-Vision Registration Approach for Cross-Modal Place Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11246871), *IROS 2025*.
+[Bridging Text and Vision: A Multi-View Text-Vision Registration Approach for Cross-Modal Place Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11246871), *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*.
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11246871"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/nuozimiaowu/Text4VPR)
 
