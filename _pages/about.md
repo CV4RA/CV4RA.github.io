@@ -33,6 +33,9 @@ redirect_from:
 - *2026.2*: &nbsp;![alt text](new-3.gif) Our paper "Vehicle-SceneInteraction: A Text-Driven 3-D Lidar Place Recognition Method for Autonomous Driving" has been accepted by《IEEE Transactions on Intelligent Transportation Systems》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
 - *2026.1*: &nbsp;![alt text](new-3.gif) Our paper "Seeing Through the Rain: Multi-Stage Attention with Depth-Guided Restoration for Robust Localization" has been accepted by《IEEE Transactions on Industrial Informatics》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
 
+#  Team
+coming soon ...
+
 #  Publications 
 <font color=red face="华文新魏">(2026 published papers)
 
@@ -148,5 +151,3 @@ Tianyi Shang, **Zhenyu Li***, Shuaishuai Lu, Pengjie Xu
 </div>
 </div>
 
-#  Team
-coming soon ...
