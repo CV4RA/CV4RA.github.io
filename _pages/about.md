@@ -22,9 +22,9 @@ redirect_from:
 📣 <font color=gray face="华文新魏">We welcome outstanding and self-motivating undergraduate students (second-year, third-year, and graduate students) to participate in subject competitions, and (sophomore students and above) to jointly carry out research on cutting-edge topics. We also welcome outstanding postgraduate students from both inside and outside the school to collaborate on AI & Robotic research.</font>
 
 #  Research Topics
-- Visual Place Recognition for Unmanned Systems (mobile robot/UAV/autonomous driving vehicle)
-- Cross-modal Perception
-- Intelligent Driving 
+- Computer Vision
+- Visual /Cross-modal Place Recognition
+- AI security
 - Embodied Intelligence
 
 
