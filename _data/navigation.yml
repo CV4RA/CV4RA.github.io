@@ -1,22 +1,17 @@
 # main links links
 main:
   - title: "About Me"
-    title_zh: "关于我"
     url: "/#about"
 
   - title: "Research Topics"
-    title_zh: "研究方向"
     url: "/#research-topics"
 
   - title: "News"
-    title_zh: "新闻"
     url: "/#news"
 
   - title: "Team"
-    title_zh: "团队"
     url: "/#team"
   
   - title: "Publications"
-    title_zh: "论文"
     url: "/#publications"
  

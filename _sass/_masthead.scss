@@ -34,35 +34,12 @@
 }
 
 .masthead__menu {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
 
   ul {
     margin: 0;
     padding: 0;
     clear: both;
     list-style-type: none;
-  }
-
-  .masthead__lang-switcher {
-    margin-left: 1rem;
-    padding: 0.55rem 0.9rem;
-    border: 1px solid $border-color;
-    border-radius: $border-radius;
-    background: $background-color;
-    color: $masthead-link-color;
-    font-family: $sans-serif-narrow;
-    font-size: $type-size-5;
-    cursor: pointer;
-    transition: $global-transition;
-
-    &:hover,
-    &:focus {
-      color: $masthead-link-color-hover;
-      border-color: $primary-color;
-      outline: none;
-    }
   }
 }
 
