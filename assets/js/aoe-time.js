@@ -4,13 +4,14 @@
  * 
  * 时间基准：UTC+8（北京时间/中国标准时间）
  * 更新频率：每秒更新一次
- * 显示格式：YYYY年MM月DD日 HH:mm:ss
+ * 显示格式：YYYY-MM-DD HH:mm:ss
  */
 
 function updateAoETime() {
-  // 获取当前时间，并将其转换为UTC+8时区（AoE世界时间）
+  // 获取当前时间，并将其转换为北京时间（UTC+8）
   const now = new Date();
-  const utc8Time = new Date(now.getTime() + (8 - now.getTimezoneOffset() / 60) * 3600000);
+  const utcMillis = now.getTime() + now.getTimezoneOffset() * 60000;
+  const utc8Time = new Date(utcMillis + 8 * 3600000);
   
   // 格式化输出：YYYY-MM-DD HH:mm:ss
   const year = utc8Time.getFullYear();
