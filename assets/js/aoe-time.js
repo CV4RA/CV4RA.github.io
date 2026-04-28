@@ -7,20 +7,25 @@
  * 显示格式：YYYY-MM-DD HH:mm:ss
  */
 
+function formatBeijingTime(date) {
+  const parts = new Intl.DateTimeFormat('zh-CN', {
+    timeZone: 'Asia/Shanghai',
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+    hour: '2-digit',
+    minute: '2-digit',
+    second: '2-digit',
+    hour12: false
+  }).formatToParts(date);
+
+  const values = Object.fromEntries(parts.filter(part => part.type !== 'literal').map(part => [part.type, part.value]));
+  return `${values.year}-${values.month}-${values.day} ${values.hour}:${values.minute}:${values.second}`;
+}
+
 function updateAoETime() {
-  // 获取当前时间，并将其转换为北京时间（UTC+8）
   const now = new Date();
-  const utc8Time = new Date(now.getTime() + 8 * 3600000);
-  
-  // 格式化输出：YYYY-MM-DD HH:mm:ss，使用 UTC 组件避免本地时区偏差
-  const year = utc8Time.getUTCFullYear();
-  const month = String(utc8Time.getUTCMonth() + 1).padStart(2, '0');
-  const day = String(utc8Time.getUTCDate()).padStart(2, '0');
-  const hours = String(utc8Time.getUTCHours()).padStart(2, '0');
-  const minutes = String(utc8Time.getUTCMinutes()).padStart(2, '0');
-  const seconds = String(utc8Time.getUTCSeconds()).padStart(2, '0');
-  
-  const timeString = `${year}-${month}-${day} ${hours}:${minutes}:${seconds}`;
+  const timeString = formatBeijingTime(now);
   
   // 在页面中更新时间显示元素
   const timeElement = document.getElementById('aoe-world-time');
