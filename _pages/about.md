@@ -41,7 +41,7 @@ coming soon ...
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/CVPR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[A2GC: Asymmetric Aggregation with Geometric Constraints for Locally Aggregated Descriptors](https://arxiv.org/pdf/2511.14109), *The 2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*.
+[A2GC: Asymmetric Aggregation with Geometric Constraints for Locally Aggregated Descriptors](https://arxiv.org/pdf/2511.14109), *The2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*.
 
  <a href="https://arxiv.org/pdf/2511.14109"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/A2GC)
 
