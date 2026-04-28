@@ -17,26 +17,31 @@ redirect_from:
 
 <span class='anchor' id='about'></span>
 
-**Li Zhenyu**, Ph.D in Mechanical Engineering of Tongji University, jointed the Department of Robotics Engineering of Qilu University of Technology (Shandong Academy of Sciences) from Oct. 2023, and built the computer vision for robot automation laboratory (CV4RA lab.). He has published more than 30 papers in SCI journals and robotics academic conferences, including CVPR, IROS. He achieved the Best Paper Finalist Award at the "2019 IEEE ROBIO Conference" (<font face="华文新魏" color="red">Top 1.5%</font>). He was awarded the "Outstanding Graduate of Tongji University" in 2023 (<font face="华文新魏" color="red">Top 2%</font>). He currently serves as a reviewer for several TOP journals (i.e., IEEE-TPAMI, IEEE-TII, IEEE-T-ITS, IEEE-RAL, CVPR, IJCAI, ICRA, IROS, AAAI ...). His current research covers localization and navigation for intelligent unmanned systems (including robots, autonomous vehicles, UAVs, etc.).
+<p data-en="Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, joined the Department of Robotics Engineering of Qilu University of Technology (Shandong Academy of Sciences) in October 2023 and founded the computer vision for robot automation laboratory (CV4RA lab.). He has published over 30 papers in SCI journals and robotics conferences, including CVPR and IROS. He achieved the Best Paper Finalist Award at the 2019 IEEE ROBIO Conference (Top 1.5%). He was awarded Outstanding Graduate of Tongji University in 2023 (Top 2%). He currently reviews for several top journals such as IEEE-TPAMI, IEEE-TII, IEEE-T-ITS, IEEE-RAL, CVPR, IJCAI, ICRA, IROS, and AAAI. His research focuses on localization and navigation for intelligent unmanned systems, including robots, autonomous vehicles, and UAVs."
+   data-zh="李振宇，2023年10月加入山东省科学院齐鲁大学机器人工程系，并创建了机器人自动化计算机视觉实验室（CV4RA实验室）。他已在SCI期刊和机器人学术会议上发表30余篇论文，包括CVPR和IROS。曾获得2019 IEEE ROBIO会议最佳论文决赛入围奖（Top 1.5%）。2023年被评为同济大学优秀毕业生（Top 2%）。他目前担任多个顶级期刊审稿人，如IEEE-TPAMI、IEEE-TII、IEEE-T-ITS、IEEE-RAL、CVPR、IJCAI、ICRA、IROS和AAAI。他的研究聚焦于智能无人系统的定位与导航，包括机器人、自动驾驶车辆和无人机。">
+  Li Zhenyu, Ph.D in Mechanical Engineering of Tongji University, joined the Department of Robotics Engineering of Qilu University of Technology (Shandong Academy of Sciences) in October 2023 and founded the computer vision for robot automation laboratory (CV4RA lab.). He has published over 30 papers in SCI journals and robotics conferences, including CVPR and IROS. He achieved the Best Paper Finalist Award at the 2019 IEEE ROBIO Conference (Top 1.5%). He was awarded Outstanding Graduate of Tongji University in 2023 (Top 2%). He currently reviews for several top journals (i.e., IEEE-TPAMI, IEEE-TII, IEEE-T-ITS, IEEE-RAL, CVPR, IJCAI, ICRA, IROS, AAAI ...). His current research covers localization and navigation for intelligent unmanned systems (including robots, autonomous vehicles, UAVs, etc.).</p>
 
-📣 <font color=green face="华文新魏">We welcome outstanding and self-motivating undergraduate students to participate in subject competitions, and to jointly carry out research on cutting-edge topics. We also welcome outstanding postgraduate students from both inside and outside the school to collaborate on AI & Robotic research.</font>
+<p data-en="We welcome outstanding and self-motivating undergraduate students to participate in subject competitions, and to jointly carry out research on cutting-edge topics. We also welcome outstanding postgraduate students from both inside and outside the school to collaborate on AI & Robotic research."
+   data-zh="我们欢迎优秀且自驱的本科生参与学科竞赛，并共同开展前沿课题研究。我们也欢迎校内外优秀研究生参与人工智能与机器人方向的合作研究。">
+  📣 We welcome outstanding and self-motivating undergraduate students to participate in subject competitions, and to jointly carry out research on cutting-edge topics. We also welcome outstanding postgraduate students from both inside and outside the school to collaborate on AI & Robotic research.
+</p>
 
-#  Research Topics
+<h1 data-en="Research Topics" data-zh="研究方向">Research Topics</h1>
 - Computer Vision
 - Visual /Cross-modal Place Recognition
 - AI security
 - Embodied Intelligence
 
 
-#  News
+<h1 data-en="News" data-zh="新闻">News</h1>
 - *2026.3*: &nbsp;![alt text](new-3.gif) Our paper "A2GC: Asymmetric Aggregation with Geometric Constraints for Locally Aggregated Descriptors" has been accepted by《The 2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
 - *2026.2*: &nbsp;![alt text](new-3.gif) Our paper "Vehicle-SceneInteraction: A Text-Driven 3-D Lidar Place Recognition Method for Autonomous Driving" has been accepted by《IEEE Transactions on Intelligent Transportation Systems》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
 - *2026.1*: &nbsp;![alt text](new-3.gif) Our paper "Seeing Through the Rain: Multi-Stage Attention with Depth-Guided Restoration for Robust Localization" has been accepted by《IEEE Transactions on Industrial Informatics》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
 
-#  Team
-coming soon ...
+<h1 data-en="Team" data-zh="团队">Team</h1>
+<p data-en="coming soon ..." data-zh="敬请期待 ...">coming soon ...</p>
 
-#  Publications 
+<h1 data-en="Publications" data-zh="论文">Publications</h1>
 <font color=red face="华文新魏">(2026 published papers)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/CVPR.png' alt="sym" width="100%"></div></div>
