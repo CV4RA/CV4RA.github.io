@@ -107,7 +107,7 @@ Tianyi Shang, **Zhenyu Li***, Shuaishuai Lu, Pengjie Xu
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI-Review</div><img src='images/acm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Place Recognition: A Comprehensive Review, Current Challenges and Future Directions](https://arxiv.org/abs/2505.14068), *Artificial Intelligence Review*.
+[Place Recognition Meet Multiple Modalitie: A Comprehensive Review, Current Challenges and Future Directions](https://arxiv.org/abs/2505.14068), *Artificial Intelligence Review*.
 
  <a href="https://arxiv.org/pdf/2505.14068"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/SOTA-Place-Recognitioner)
 
