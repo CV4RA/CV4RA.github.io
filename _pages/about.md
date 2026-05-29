@@ -43,7 +43,7 @@ coming soon ...
 <div class='paper-box-text' markdown="1">
 [A2GC: Asymmetric Aggregation with Geometric Constraints for Locally Aggregated Descriptors](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_A2GC_Asymmetric_Aggregation_with_Geometric_Constraints_for_Locally_Aggregated_Descriptors_CVPR_2026_paper.pdf), *The 2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*.
 
-<a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Li_A2GC_Asymmetric_Aggregation_with_Geometric_Constraints_for_Locally_Aggregated_Descriptors_CVPR_2026_paper.pdf"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a><a href="https://www.youtube.com/watch?v=p0mnvVhDJFw" target="_blank"><img src="https://img.shields.io/badge/Watch-Video-red?logo=youtube&logoColor=white&style=flat-square" alt="Video"></a>[![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/A2GC)
+<a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Li_A2GC_Asymmetric_Aggregation_with_Geometric_Constraints_for_Locally_Aggregated_Descriptors_CVPR_2026_paper.pdf"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/36393.png?t=1778054513.688499" target="_blank"><img src="https://img.shields.io/badge/Poster-blue?logo=image&style=flat-square" alt="Poster"></a> <a href="https://www.youtube.com/watch?v=p0mnvVhDJFw" target="_blank"><img src="https://img.shields.io/badge/Watch-Video-red?logo=youtube&logoColor=white&style=flat-square" alt="Video"></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/A2GC)
 
 **Zhenyu Li***, Tianyi Shang
 </div>
