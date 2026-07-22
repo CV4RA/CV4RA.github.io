@@ -40,6 +40,15 @@ coming soon ...
 #  Publications 
 <font color=red face="华文新魏">(2026 published papers)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TASE</div><img src='images/TASE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Hybrid State Space Modeling for Sequence-based Robot Localization Under Challenging Environments](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11614538), *IEEE Transactions on Automation Science and Engineering (TASE)*.
+
+ <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11614538"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> 
+ 
+**Zhenyu Li***, Tianyi Shang
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/CVPR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [A2GC: Asymmetric Aggregation with Geometric Constraints for Locally Aggregated Descriptors](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_A2GC_Asymmetric_Aggregation_with_Geometric_Constraints_for_Locally_Aggregated_Descriptors_CVPR_2026_paper.pdf), *The 2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*.
