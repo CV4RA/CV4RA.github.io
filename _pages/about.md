@@ -42,7 +42,7 @@ coming soon ...
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TASE</div><img src='images/TASE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Hybrid State Space Modeling for Sequence-based Robot Localization Under Challenging Environments](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11614538), *IEEE Transactions on Automation Science and Engineering (TASE)*.
+Hybrid State Space Modeling for Sequence-based Robot Localization Under Challenging Environments, *IEEE Transactions on Automation Science and Engineering (TASE)*.
 
  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11614538"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> 
  
@@ -51,7 +51,7 @@ coming soon ...
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/CVPR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[A2GC: Asymmetric Aggregation with Geometric Constraints for Locally Aggregated Descriptors](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_A2GC_Asymmetric_Aggregation_with_Geometric_Constraints_for_Locally_Aggregated_Descriptors_CVPR_2026_paper.pdf), *The 2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*.
+A2GC: Asymmetric Aggregation with Geometric Constraints for Locally Aggregated Descriptors, *The 2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*.
 
 <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Li_A2GC_Asymmetric_Aggregation_with_Geometric_Constraints_for_Locally_Aggregated_Descriptors_CVPR_2026_paper.pdf"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/36393.png?t=1778054513.688499" target="_blank"><img src="https://img.shields.io/badge/Poster-blue?logo=image&style=flat-square" alt="Poster"></a> <a href="https://www.youtube.com/watch?v=p0mnvVhDJFw" target="_blank"><img src="https://img.shields.io/badge/Watch-Video-red?logo=youtube&logoColor=white&style=flat-square" alt="Video"></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/A2GC)
 
@@ -60,7 +60,7 @@ coming soon ...
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TII</div><img src='images/TIIrain.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Seeing Through the Rain: Multistage Attention With Depth-Guided Restoration for Robust Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11457675), *IEEE Transactions on Industrial Informatics (TII)*.
+Seeing Through the Rain: Multistage Attention With Depth-Guided Restoration for Robust Localization, *IEEE Transactions on Industrial Informatics (TII)*.
 
  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11457675"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/Diffu-VPR)
 
@@ -69,7 +69,7 @@ coming soon ...
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TITS</div><img src='images/TITSVS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Vehicle-Scene Interaction: A Text-Driven 3-D Lidar Place Recognition Method for Autonomous Driving](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11456443), *IEEE Transactions on Intelligent Transportation Systems (TITS)*.
+Vehicle-Scene Interaction: A Text-Driven 3-D Lidar Place Recognition Method for Autonomous Driving, *IEEE Transactions on Intelligent Transportation Systems (TITS)*.
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11456443"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/nuozimiaowu/FourierPlace)
 
@@ -81,7 +81,7 @@ Tianyi Shang, **Zhenyu Li***, Pengjie Xu, Zhaojun Deng
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/mamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[MambaPlace: Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11246747), *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*.
+MambaPlace: Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms, *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*.
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11246747"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/nuozimiaowu/MambaPlace)
 
@@ -90,7 +90,7 @@ Tianyi Shang, **Zhenyu Li***, Pengjie Xu, Jinwei Qiao
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/Text4VPR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Bridging Text and Vision: A Multi-View Text-Vision Registration Approach for Cross-Modal Place Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11246871), *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*.
+Bridging Text and Vision: A Multi-View Text-Vision Registration Approach for Cross-Modal Place Recognition, *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*.
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11246871"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/nuozimiaowu/Text4VPR)
 
@@ -99,7 +99,7 @@ Tianyi Shang, **Zhenyu Li***, Pengjie Xu, Jinwei Qiao, Gang Chen, Zihan Ruan, We
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/ESWA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Quadruplet-attention transformer for scale-invariant robot placerecognition](https://www.sciencedirect.com/science/article/pii/S0957417425043714), *Expert Systems with Applications (ESWA)*.
+Quadruplet-attention transformer for scale-invariant robot placerecognition, *Expert Systems with Applications (ESWA)*.
 
  <a href="https://www.sciencedirect.com/science/article/pii/S0957417425043714"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> 
 
@@ -108,7 +108,7 @@ Tianyi Shang, **Zhenyu Li***, Pengjie Xu, Jinwei Qiao, Gang Chen, Zihan Ruan, We
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-RAL</div><img src='images/RAL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[FourierPlace: A Vision-Language Localization Framework Based on Frequency Domain Representations](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11260932), *IEEE Robotics and Automation Letters (RAL)*.
+FourierPlace: A Vision-Language Localization Framework Based on Frequency Domain Representations, *IEEE Robotics and Automation Letters (RAL)*.
 
  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11260932"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](ttps://github.com/nuozimiaowu/FourierPlace)
 
@@ -117,7 +117,7 @@ Tianyi Shang, **Zhenyu Li***, Shuaishuai Lu, Pengjie Xu
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI-Review</div><img src='images/acm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Place Recognition Meet Multiple Modalitie: A Comprehensive Review, Current Challenges and Future Directions](https://arxiv.org/abs/2505.14068), *Artificial Intelligence Review*.
+Place Recognition Meet Multiple Modalitie: A Comprehensive Review, Current Challenges and Future Directions, *Artificial Intelligence Review*.
 
  <a href="https://arxiv.org/pdf/2505.14068"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/SOTA-Place-Recognitioner)
 
@@ -126,7 +126,7 @@ Tianyi Shang, **Zhenyu Li***, Shuaishuai Lu, Pengjie Xu
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TITS</div><img src='images/its.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Multi-Modal Attention Perception for Intelligent Vehicle Navigation using Deep Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10877697), *IEEE Transactions on Intelligent Transportation Systems (TITS)*. 
+Multi-Modal Attention Perception for Intelligent Vehicle Navigation using Deep Reinforcement Learning, *IEEE Transactions on Intelligent Transportation Systems (TITS)*. 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10877697"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/MMAP-DRL-Nav)
 
@@ -135,7 +135,7 @@ Tianyi Shang, **Zhenyu Li***, Shuaishuai Lu, Pengjie Xu
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TAI</div><img src='images/tai.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[CWPFormer: Towards High-performance Visual Place Recognition for Robot with Cross-weight Attention Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10872972), *IEEE Transactions on Artificial Intelligence (TAI)*. 
+CWPFormer: Towards High-performance Visual Place Recognition for Robot with Cross-weight Attention Learning, *IEEE Transactions on Artificial Intelligence (TAI)*. 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10872972"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a>  [![Code](https://img.shields.io/badge/GitHub-Code-lightgrey?logo=github)](https://github.com/CV4RA/CWPFormer)
 
@@ -144,7 +144,7 @@ Tianyi Shang, **Zhenyu Li***, Shuaishuai Lu, Pengjie Xu
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TITS</div><img src='images/feature.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Feature-Level Knowledge Distillation for Place Recognition Based on Soft-Hard Labels Teaching Paradigm](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10759546), *IEEE Transactions on Intelligent Transportation Systems (TITS)*. 
+Feature-Level Knowledge Distillation for Place Recognition Based on Soft-Hard Labels Teaching Paradigm, *IEEE Transactions on Intelligent Transportation Systems (TITS)*. 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10759546"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a>  
 
@@ -153,7 +153,7 @@ Tianyi Shang, **Zhenyu Li***, Shuaishuai Lu, Pengjie Xu
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TII</div><img src='images/toward.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Toward robust visual place recognition for mobile robots with an end-to-end dark-enhanced net](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10759546), *IEEE Transactions on Industrial Informatics (TII)*. 
+Toward robust visual place recognition for mobile robots with an end-to-end dark-enhanced net, *IEEE Transactions on Industrial Informatics (TII)*. 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10759546"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a>  
 
