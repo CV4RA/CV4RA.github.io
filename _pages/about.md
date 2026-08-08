@@ -23,8 +23,8 @@ redirect_from:
 
 #  Research Topics
 - Computer Vision
-- Visual /Cross-modal Place Recognition
-- AI security
+- Visual Localization
+- LLMs
 - Embodied Intelligence
 
 
