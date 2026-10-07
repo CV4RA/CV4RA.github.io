@@ -33,7 +33,7 @@ redirect_from:
 - ![alt text](new.gif) Two papers have been accepted by《NeurIPS 2026》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
 
 - ![alt text](new.gif) Our paper "Hybrid State Space Modeling for Sequence-based Robot Localization Under Challenging Environments" has been accepted by《IEEE Transactions on Automation Science and Engineering》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
-- ![alt text](new.gif) Our paper "A2GC: Asymmetric Aggregation with Geometric Constraints for Locally Aggregated Descriptors" has been accepted by《The 2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
+- ![alt text](new.gif) Our paper "A2GC: Asymmetric Aggregation with Geometric Constraints for Locally Aggregated Descriptors" has been accepted by《CVPR 2026》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
 - ![alt text](new.gif) Our paper "Vehicle-SceneInteraction: A Text-Driven 3-D Lidar Place Recognition Method for Autonomous Driving" has been accepted by《IEEE Transactions on Intelligent Transportation Systems》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
 - ![alt text](new.gif) Our paper "Seeing Through the Rain: Multi-Stage Attention with Depth-Guided Restoration for Robust Localization" has been accepted by《IEEE Transactions on Industrial Informatics》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
 
