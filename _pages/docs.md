@@ -1,4 +1,4 @@
-title: "文档"
+title: "CV"
 layout: single
 permalink: /docs/
 author_profile: true
