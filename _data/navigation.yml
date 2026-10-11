@@ -14,4 +14,6 @@ main:
   
   - title: "Publications"
     url: "/#publications"
+  - title: "文档"
+    url: "/docs/"
  
