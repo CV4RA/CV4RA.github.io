@@ -14,6 +14,6 @@ main:
   
   - title: "Publications"
     url: "/#publications"
-  - title: "文档"
+  - title: "CV"
     url: "_pages/LZY-CV.pdf"
     target: "_blank"
