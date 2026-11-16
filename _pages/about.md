@@ -30,7 +30,7 @@ redirect_from:
 
 #  News
 
-- ![alt text](new.gif) An papers have been accepted by《IEEE Transactions on Intelligent Transportation Systems》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
+- ![alt text](new.gif) A papers have been accepted by《IEEE Transactions on Intelligent Transportation Systems》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
 - ![alt text](new.gif) Two papers have been accepted by《NeurIPS 2026》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
 - ![alt text](new.gif) Our paper "Hybrid State Space Modeling for Sequence-based Robot Localization Under Challenging Environments" has been accepted by《IEEE Transactions on Automation Science and Engineering》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
 - ![alt text](new.gif) Our paper "A2GC: Asymmetric Aggregation with Geometric Constraints for Locally Aggregated Descriptors" has been accepted by《CVPR 2026》 ! <font color=Fuchsia>well done👏👏👏!!!</font>
