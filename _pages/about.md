@@ -46,7 +46,7 @@ coming soon ...
 <div class='paper-box-text' markdown="1">
 [Language-Guided Hybrid Sequence Modeling for Vehicle Relocalization via Pose Estimation]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11457675](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11804511)), *IEEE Transactions on Intelligent Transportation Systems (TITS)*.
 
- <a href="[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11457675](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11804511)"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> 
+ <a href="[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11614538](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11804511)"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> 
 
 **Zhenyu Li**, Tianyi Shang*, Pengjie Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TASE</div><img src='images/TASE.png' alt="sym" width="100%"></div></div>
