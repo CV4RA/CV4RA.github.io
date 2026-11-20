@@ -31,7 +31,7 @@ redirect_from:
 
 本实验室面向全校/校外优秀本科生开放申请，特别欢迎具备保研或者冲击保研资格的同学。实验室科研环境和科研氛围较好，老师会为每位致力于学术追求的同学专门制定科研方向，科研工作中，老师也会和同学们一起工作，共同进步。**申请前申请者具备基础的编程知识能力即可**，进入实验室后将会接受系统的科研训练。本实验室对团队成员科研要求比较严格谨慎，进入实验室的本科生在课余时间需要全身心投入科研工作。实验室要求所有学生不做没有任何科学价值和科学意义的研究，所作研究未来定位发表在顶级**IEEE汇刊（非开源）和CCFA顶会**，所做工作**必须开源**，并能**完整复现**。本实验室软硬件资源充足，可为同学们在科研方案成熟阶段提供**算力**支持。在实验室取得突出成果的同学将有机会跟随老师参加顶会，或者将被派往国内顶尖985大学进行学术交流。成果突出或者成绩优异的保研学生将有机会被老师推荐至国外顶尖大学深造或者国内顶尖大学读研。**实验室培养学生案例：** 尚天翼同学是本实验室培养的第一位学生，他于2026年获电子信息工程学士学位，目前在美国普渡大学攻读博士学位（直博全奖）。天翼的研究方向包括AIGC、智能感知、视觉定位和导航。本科期间，在CV4RA实验室（大二至大四）专心科研，致力于科研攻坚，在李振雨老师的全过程指导下以第一作者身份在**NeurIPS（CCFA）、AAAI（CCFA）、IEEE TITS（一区）、IEEE RAL（二区）、IEEE IROS（机器人顶会）** **发表论文7篇**，合作发表5篇。目前，天翼同学已经是语言-点云跨模态定位领域具有较强影响力的研究者，详见天翼学术主页[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YmHM1XkAAAAJ&hl=en)和GitHub主页[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://nuozimiaowu.github.io/)。
 
-感兴趣的同学请邮箱联系（[邮箱](lizhenyu@qlu.edu.cn)）!!! 
+感兴趣的同学请邮箱联系（邮箱：lizhenyu@qlu.edu.cn）!!! 
 
 #  News
 
